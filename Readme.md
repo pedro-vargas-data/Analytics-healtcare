@@ -30,7 +30,7 @@ La operación hospitalaria analizada procesa un volumen financiero total de **$2
 * **`Database/script.sql`** — Script completo de MySQL para la creación de la tabla y consultas de análisis.
 * **`Reports/Informe_SupplyChain_PedroVargas.pdf`** — Reporte ejecutivo listo para descargar
 * **`Outputs/Executive_dashboard.png`** — Captura general del tablero en Excel
-* **`README.md`** — Documentación principal del proyecto.
+* **`Readme.md`** — Documentación principal del proyecto.
 
 ---
 

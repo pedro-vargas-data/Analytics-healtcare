@@ -49,11 +49,11 @@ Al analizar el impacto financiero cruzado (*Financial Risk Impact*):
 ## 💡 6. Propuestas Estratégicas para la Mitigación de Riesgos
 
 1. **Protocolos de Seguimiento Post-Alta en Orthopedics y Cardiology (Impacto Alto / Esfuerzo Medio):**
-   *Implementar un programa de teleseguimiento a los 7 y 14 días posteriores al alta en pacientes quirúrgicos para reducir significativamente la tasa de reingreso y el costo financiero asociado.
+   Implementar un programa de teleseguimiento a los 7 y 14 días posteriores al alta en pacientes quirúrgicos para reducir significativamente la tasa de reingreso y el costo financiero asociado.
 2. **Optimización de Recursos en Urgencias vs. Rutina (Impacto Alto / Esfuerzo Alto):**
-   *Revisar la asignación de suministros en los tratamientos de emergencia dentro de las regiones West y North para controlar costos operativos sin afectar la puntuación de recuperación (recovery_score).
+   Revisar la asignación de suministros en los tratamientos de emergencia dentro de las regiones West y North para controlar costos operativos sin afectar la puntuación de recuperación (recovery_score).
 3. **Automatización de Alertas de Riesgo en MySQL (Impacto Medio / Esfuerzo Bajo):**
-   *Programar reportes periódicos utilizando las consultas analíticas del script SQL (script.sql) para identificar de manera anticipada a los pacientes con un readmission_risk superior al 0.40.
+   Programar reportes periódicos utilizando las consultas analíticas del script SQL (script.sql) para identificar de manera anticipada a los pacientes con un readmission_risk superior al 0.40.
 ---
 ## 🚀 7. Cómo clonar y revisar el proyecto
 

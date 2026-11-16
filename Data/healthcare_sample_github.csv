@@ -1,0 +1,1002 @@
+patient_id,visit_date,age_group,gender,region,department,treatment_type,visit_type,length_of_stay_days,treatment_cost,recovery_score,readmission_risk,type_stay_attention,financial_risk_impact
+535,19/06/2023,46-60,Female,East,Neurology,Surgery,Routine,1.9,39114,74,0.47,Inpatient,18383.58
+1459,29/12/2025,18-30,Female,South,Pediatrics,Surgery,Emergency,6.2,37959,66,0.14,Inpatient,5314.26
+4694,07/11/2034,31-45,Female,North,Orthopedics,Surgery,Routine,5.2,64577,80,0.16,Inpatient,10332.32
+3130,27/07/2030,46-60,Female,West,Pediatrics,Therapy,Routine,6.4,64008,67,0.15,Inpatient,9601.2
+977,03/09/2024,31-45,Female,South,Neurology,Medication,Routine,1.7,45937,87,0.21,Inpatient,9646.77
+4701,14/11/2034,18-30,Male,East,Orthopedics,Observation,Emergency,0.5,38901,77,0.3,Inpatient,11670.3
+2089,20/09/2027,46-60,Female,East,Orthopedics,Observation,Routine,2.4,49205,95,0.58,Inpatient,28538.9
+293,20/10/2022,46-60,Male,East,Neurology,Surgery,Routine,2.4,90557,70,0.55,Inpatient,49806.35
+3841,07/07/2032,31-45,Female,North,Orthopedics,Therapy,Emergency,5.4,27221,81,0.28,Inpatient,7621.88
+2750,12/07/2029,46-60,Male,South,Cardiology,Surgery,Routine,4.4,72520,72,0.1,Inpatient,7252.0
+270,27/09/2022,31-45,Female,East,Pediatrics,Observation,Routine,4.5,80416,63,0.56,Inpatient,45032.96
+4956,27/07/2035,46-60,Male,South,Cardiology,Observation,Routine,6.5,68411,54,0.36,Inpatient,24627.96
+4042,24/01/2033,31-45,Female,North,Orthopedics,Surgery,Routine,3.1,50092,87,0.23,Inpatient,11521.16
+1340,01/09/2025,18-30,Female,North,Pediatrics,Medication,Routine,4.5,68524,65,0.27,Inpatient,18501.48
+4491,18/04/2034,31-45,Female,South,Pediatrics,Surgery,Routine,7.1,24868,70,0.4,Inpatient,9947.2
+2839,09/10/2029,46-60,Female,East,Pediatrics,Observation,Emergency,6.0,37592,87,0.22,Inpatient,8270.24
+1748,14/10/2026,31-45,Male,South,General Medicine,Observation,Routine,6.6,40555,89,0.32,Inpatient,12977.6
+2123,24/10/2027,60+,Male,East,Pediatrics,Observation,Emergency,6.5,50560,80,0.3,Inpatient,15168.0
+1873,16/02/2027,31-45,Male,East,Neurology,Therapy,Emergency,5.8,77038,67,0.41,Inpatient,31585.58
+2237,15/02/2028,60+,Female,East,General Medicine,Surgery,Routine,5.6,75127,83,0.22,Inpatient,16527.94
+2410,06/08/2028,31-45,Female,West,Neurology,Therapy,Emergency,2.0,72679,79,0.15,Inpatient,10901.85
+2741,03/07/2029,31-45,Female,East,Cardiology,Therapy,Routine,2.7,26028,96,0.42,Inpatient,10931.76
+1281,04/07/2025,46-60,Female,South,General Medicine,Therapy,Routine,3.5,92089,60,0.14,Inpatient,12892.46
+1261,14/06/2025,31-45,Female,North,Neurology,Surgery,Routine,2.7,72307,74,0.4,Inpatient,28922.8
+4317,26/10/2033,46-60,Female,South,General Medicine,Medication,Routine,5.7,74786,64,0.28,Inpatient,20940.08
+3916,20/09/2032,31-45,Male,East,General Medicine,Medication,Routine,3.5,70673,63,0.14,Inpatient,9894.22
+4008,21/12/2032,31-45,Male,North,Cardiology,Surgery,Routine,3.4,40347,68,0.27,Inpatient,10893.69
+1573,22/04/2026,46-60,Male,West,Pediatrics,Therapy,Emergency,0.9,82183,88,0.28,Inpatient,23011.24
+479,24/04/2023,60+,Male,South,Pediatrics,Observation,Emergency,7.8,19474,63,0.03,Inpatient,584.22
+3655,03/01/2032,18-30,Female,East,Orthopedics,Therapy,Routine,4.8,32884,83,0.68,Inpatient,22361.12
+3740,28/03/2032,31-45,Male,West,General Medicine,Surgery,Emergency,4.4,55862,70,0.24,Inpatient,13406.88
+1980,03/06/2027,46-60,Female,West,Cardiology,Surgery,Emergency,4.1,49906,86,0.45,Inpatient,22457.7
+2902,11/12/2029,46-60,Female,South,Orthopedics,Medication,Routine,4.8,53669,83,0.39,Inpatient,20930.91
+141,21/05/2022,60+,Male,East,Neurology,Surgery,Routine,4.3,80964,85,0.46,Inpatient,37243.44
+2152,22/11/2027,18-30,Male,South,General Medicine,Therapy,Routine,4.5,66751,64,0.16,Inpatient,10680.16
+1754,20/10/2026,18-30,Female,East,Cardiology,Therapy,Emergency,0.6,44438,84,0.35,Inpatient,15553.3
+947,04/08/2024,18-30,Male,East,Orthopedics,Observation,Emergency,2.8,62664,84,0.2,Inpatient,12532.8
+4503,30/04/2034,31-45,Male,West,Neurology,Therapy,Emergency,2.0,51322,66,0.36,Inpatient,18475.92
+230,18/08/2022,46-60,Female,West,Pediatrics,Observation,Routine,4.8,61355,56,0.45,Inpatient,27609.75
+4197,28/06/2033,18-30,Female,West,Cardiology,Observation,Emergency,3.0,45909,73,0.31,Inpatient,14231.79
+1825,30/12/2026,46-60,Male,East,General Medicine,Surgery,Routine,3.6,51717,70,0.08,Inpatient,4137.36
+3466,28/06/2031,46-60,Female,East,Cardiology,Surgery,Routine,4.0,23360,75,0.29,Inpatient,6774.4
+1278,01/07/2025,60+,Female,East,General Medicine,Surgery,Routine,5.8,37838,66,0.14,Inpatient,5297.32
+2242,20/02/2028,18-30,Female,West,Pediatrics,Therapy,Emergency,5.7,25655,76,0.35,Inpatient,8979.25
+1457,27/12/2025,46-60,Female,South,General Medicine,Surgery,Routine,6.2,69634,100,0.18,Inpatient,12534.12
+2748,10/07/2029,18-30,Female,East,General Medicine,Observation,Emergency,5.8,28904,75,0.26,Inpatient,7515.04
+376,11/01/2023,31-45,Male,West,Pediatrics,Surgery,Routine,7.7,51617,76,0.1,Inpatient,5161.7
+1671,29/07/2026,31-45,Female,East,Orthopedics,Medication,Routine,3.6,14894,53,0.33,Inpatient,4915.02
+3080,07/06/2030,60+,Female,North,Neurology,Medication,Routine,4.9,48884,64,0.37,Inpatient,18087.08
+394,29/01/2023,46-60,Male,North,Pediatrics,Surgery,Routine,5.4,49918,87,0.01,Inpatient,499.18
+4147,09/05/2033,18-30,Male,East,Orthopedics,Observation,Emergency,2.6,47468,64,0.38,Inpatient,18037.84
+1879,22/02/2027,31-45,Female,East,Pediatrics,Observation,Routine,3.5,52150,84,0.29,Inpatient,15123.5
+1461,31/12/2025,31-45,Male,East,General Medicine,Observation,Routine,3.2,55669,74,0.18,Inpatient,10020.42
+4341,19/11/2033,31-45,Male,East,Orthopedics,Observation,Emergency,4.4,52916,80,0.1,Inpatient,5291.6
+719,20/12/2023,18-30,Female,East,Cardiology,Medication,Emergency,4.8,1927,81,0.12,Inpatient,231.24
+2373,30/06/2028,46-60,Female,West,Cardiology,Medication,Routine,5.0,6414,68,0.49,Inpatient,3142.86
+1046,11/11/2024,46-60,Male,South,Orthopedics,Medication,Emergency,6.1,79766,77,0.22,Inpatient,17548.52
+926,14/07/2024,18-30,Female,East,Cardiology,Medication,Routine,2.0,44121,96,0.08,Inpatient,3529.68
+4893,25/05/2035,46-60,Male,North,General Medicine,Medication,Routine,4.1,73766,86,0.21,Inpatient,15490.86
+4319,28/10/2033,31-45,Male,South,Pediatrics,Surgery,Routine,4.3,67803,98,0.19,Inpatient,12882.57
+3407,30/04/2031,60+,Male,West,General Medicine,Observation,Routine,1.8,77579,85,0.41,Inpatient,31807.39
+4097,20/03/2033,18-30,Male,South,Cardiology,Observation,Routine,7.9,70334,76,0.15,Inpatient,10550.1
+3834,30/06/2032,31-45,Female,South,Neurology,Surgery,Emergency,2.9,73462,71,0.24,Inpatient,17630.88
+757,27/01/2024,46-60,Female,West,General Medicine,Medication,Routine,6.9,17228,74,0.1,Inpatient,1722.8
+683,14/11/2023,18-30,Male,South,Orthopedics,Medication,Routine,5.1,44109,62,0.27,Inpatient,11909.43
+589,12/08/2023,18-30,Male,West,Orthopedics,Surgery,Emergency,7.5,28823,58,0.22,Inpatient,6341.06
+508,23/05/2023,46-60,Female,South,Pediatrics,Medication,Routine,2.8,41955,77,0.07,Inpatient,2936.85
+4775,27/01/2035,31-45,Female,West,Pediatrics,Observation,Routine,6.0,48673,78,0.09,Inpatient,4380.57
+4936,07/07/2035,31-45,Male,South,Cardiology,Observation,Routine,5.7,73576,78,0.06,Inpatient,4414.56
+2174,14/12/2027,60+,Male,South,Neurology,Surgery,Emergency,2.6,19786,78,0.26,Inpatient,5144.36
+4542,08/06/2034,31-45,Female,North,Cardiology,Surgery,Emergency,2.5,99044,80,0.39,Inpatient,38627.16
+4976,16/08/2035,31-45,Female,East,Neurology,Surgery,Emergency,6.0,64348,76,0.38,Inpatient,24452.24
+2320,08/05/2028,31-45,Male,South,Orthopedics,Medication,Routine,6.9,31349,67,0.03,Inpatient,940.47
+3507,08/08/2031,60+,Male,West,Pediatrics,Medication,Routine,4.4,84749,99,0.41,Inpatient,34747.09
+3470,02/07/2031,18-30,Male,West,General Medicine,Observation,Emergency,1.7,33590,62,0.2,Inpatient,6718.0
+2995,14/03/2030,18-30,Male,North,General Medicine,Observation,Emergency,4.9,90263,86,0.04,Inpatient,3610.52
+3058,16/05/2030,18-30,Female,West,Orthopedics,Observation,Emergency,4.9,80744,54,0.2,Inpatient,16148.8
+4799,20/02/2035,18-30,Male,North,Cardiology,Medication,Routine,0.4,73740,62,0.27,Inpatient,19909.8
+1822,27/12/2026,18-30,Male,West,Neurology,Therapy,Routine,5.0,76168,71,0.33,Inpatient,25135.44
+4792,13/02/2035,60+,Female,North,General Medicine,Surgery,Routine,2.6,16410,63,0.11,Inpatient,1805.1
+104,14/04/2022,31-45,Female,West,Orthopedics,Observation,Routine,3.4,29540,81,0.37,Inpatient,10929.8
+4651,25/09/2034,18-30,Male,West,Cardiology,Observation,Emergency,4.9,63469,67,0.08,Inpatient,5077.52
+272,29/09/2022,46-60,Male,East,General Medicine,Observation,Routine,5.7,59912,77,0.13,Inpatient,7788.56
+2386,13/07/2028,31-45,Female,South,Cardiology,Observation,Emergency,4.0,23713,88,0.35,Inpatient,8299.55
+254,11/09/2022,31-45,Female,North,General Medicine,Surgery,Emergency,5.6,32078,87,0.28,Inpatient,8981.84
+2782,13/08/2029,46-60,Female,South,Neurology,Therapy,Routine,1.2,67593,86,0.41,Inpatient,27713.13
+2567,10/01/2029,18-30,Male,North,Pediatrics,Therapy,Routine,4.1,28456,47,0.07,Inpatient,1991.92
+4086,09/03/2033,18-30,Male,West,Orthopedics,Surgery,Routine,4.2,63534,85,0.18,Inpatient,11436.12
+188,07/07/2022,31-45,Male,North,Orthopedics,Therapy,Routine,8.7,40427,61,0.53,Inpatient,21426.31
+3389,12/04/2031,18-30,Female,South,General Medicine,Surgery,Emergency,5.9,30262,82,0.19,Inpatient,5749.78
+4938,09/07/2035,31-45,Male,South,General Medicine,Therapy,Emergency,3.5,80310,50,0.13,Inpatient,10440.3
+1819,24/12/2026,46-60,Male,South,Neurology,Observation,Routine,3.0,60396,69,0.24,Inpatient,14495.04
+3450,12/06/2031,18-30,Female,East,Neurology,Surgery,Emergency,3.0,46334,60,0.4,Inpatient,18533.6
+2233,11/02/2028,60+,Female,West,General Medicine,Medication,Emergency,3.3,73553,100,0.43,Inpatient,31627.79
+752,22/01/2024,60+,Male,North,Orthopedics,Therapy,Emergency,5.4,78420,61,0.72,Inpatient,56462.4
+3085,12/06/2030,46-60,Male,South,Neurology,Medication,Routine,6.4,72761,74,0.38,Inpatient,27649.18
+4421,07/02/2034,18-30,Female,South,Orthopedics,Medication,Emergency,3.7,39235,68,0.19,Inpatient,7454.65
+4829,22/03/2035,31-45,Male,North,Cardiology,Observation,Routine,2.1,51976,68,0.08,Inpatient,4158.08
+4849,11/04/2035,46-60,Male,South,Cardiology,Observation,Emergency,1.9,69658,89,0.39,Inpatient,27166.62
+4977,17/08/2035,18-30,Male,West,Pediatrics,Medication,Routine,3.3,48419,70,0.17,Inpatient,8231.23
+1962,16/05/2027,31-45,Female,North,Orthopedics,Surgery,Routine,3.2,33935,85,0.41,Inpatient,13913.35
+1643,01/07/2026,31-45,Female,South,General Medicine,Therapy,Routine,2.6,84393,56,0.35,Inpatient,29537.55
+2519,23/11/2028,46-60,Male,West,Orthopedics,Medication,Routine,0.7,63352,77,0.27,Inpatient,17105.04
+694,25/11/2023,18-30,Male,South,General Medicine,Observation,Emergency,4.1,2640,66,0.43,Inpatient,1135.2
+1883,26/02/2027,46-60,Female,North,Orthopedics,Medication,Routine,0.2,73890,61,0.26,Inpatient,19211.4
+1806,11/12/2026,46-60,Female,North,Orthopedics,Therapy,Emergency,6.5,48583,56,0.15,Inpatient,7287.45
+4860,22/04/2035,60+,Male,West,Neurology,Therapy,Emergency,5.2,34846,77,0.19,Inpatient,6620.74
+4955,26/07/2035,31-45,Female,North,Pediatrics,Therapy,Routine,4.9,54986,97,0.5,Inpatient,27493.0
+377,12/01/2023,46-60,Female,South,Cardiology,Therapy,Emergency,4.3,37524,86,0.21,Inpatient,7880.04
+3714,02/03/2032,46-60,Female,East,Pediatrics,Observation,Routine,6.1,53785,73,0.23,Inpatient,12370.55
+4673,17/10/2034,46-60,Male,North,Neurology,Surgery,Emergency,6.2,43442,90,0.2,Inpatient,8688.4
+2057,19/08/2027,31-45,Female,East,Orthopedics,Therapy,Routine,1.0,50185,64,0.59,Inpatient,29609.15
+4763,15/01/2035,46-60,Female,South,Pediatrics,Therapy,Emergency,3.5,45300,83,0.23,Inpatient,10419.0
+4566,02/07/2034,60+,Female,West,Pediatrics,Medication,Routine,2.5,21060,61,0.19,Inpatient,4001.4
+1448,18/12/2025,46-60,Male,East,Cardiology,Observation,Routine,0.5,42061,63,0.38,Inpatient,15983.18
+2636,20/03/2029,46-60,Female,East,Neurology,Medication,Routine,3.6,49154,67,0.42,Inpatient,20644.68
+492,07/05/2023,46-60,Male,South,Cardiology,Therapy,Routine,6.4,44913,96,0.22,Inpatient,9880.86
+3078,05/06/2030,18-30,Female,West,Pediatrics,Therapy,Emergency,6.4,32629,84,0.13,Inpatient,4241.77
+1272,25/06/2025,60+,Male,East,Neurology,Surgery,Routine,1.8,61345,79,0.67,Inpatient,41101.15
+1381,12/10/2025,18-30,Female,West,General Medicine,Observation,Routine,3.5,54756,67,0.15,Inpatient,8213.4
+1770,05/11/2026,31-45,Female,East,Pediatrics,Medication,Emergency,0.2,56296,69,0.11,Inpatient,6192.56
+4875,07/05/2035,31-45,Male,North,Neurology,Medication,Emergency,1.9,65737,68,0.37,Inpatient,24322.69
+1394,25/10/2025,31-45,Male,North,Orthopedics,Surgery,Emergency,7.5,41837,76,0.32,Inpatient,13387.84
+3019,07/04/2030,18-30,Female,East,General Medicine,Observation,Routine,2.2,89083,86,0.37,Inpatient,32960.71
+1413,13/11/2025,31-45,Female,West,General Medicine,Medication,Routine,4.3,57532,89,0.38,Inpatient,21862.16
+3319,01/02/2031,46-60,Male,North,Neurology,Therapy,Emergency,5.7,90081,73,0.16,Inpatient,14412.96
+3488,20/07/2031,18-30,Male,West,Neurology,Therapy,Routine,7.5,59001,45,0.22,Inpatient,12980.22
+4296,05/10/2033,31-45,Female,North,Neurology,Observation,Emergency,4.6,66056,86,0.06,Inpatient,3963.36
+1553,02/04/2026,46-60,Female,East,Pediatrics,Observation,Routine,4.3,49440,70,0.12,Inpatient,5932.8
+410,14/02/2023,18-30,Male,East,Orthopedics,Therapy,Routine,4.8,36018,81,0.32,Inpatient,11525.76
+3235,09/11/2030,31-45,Male,East,Pediatrics,Surgery,Routine,2.3,69069,57,0.27,Inpatient,18648.63
+2669,22/04/2029,46-60,Female,East,Pediatrics,Medication,Routine,5.3,78881,87,0.06,Inpatient,4732.86
+2061,23/08/2027,18-30,Male,East,General Medicine,Observation,Emergency,1.0,61302,71,0.25,Inpatient,15325.5
+3042,30/04/2030,60+,Female,East,Pediatrics,Therapy,Emergency,4.8,42887,68,0.29,Inpatient,12437.23
+4043,25/01/2033,31-45,Male,West,Neurology,Surgery,Emergency,6.9,65980,68,0.13,Inpatient,8577.4
+1578,27/04/2026,46-60,Male,West,Cardiology,Observation,Routine,3.6,42444,73,0.13,Inpatient,5517.72
+3926,30/09/2032,18-30,Female,West,Cardiology,Surgery,Routine,5.3,81146,70,0.15,Inpatient,12171.9
+3745,02/04/2032,18-30,Male,East,General Medicine,Medication,Emergency,5.0,25810,76,0.38,Inpatient,9807.8
+3430,23/05/2031,31-45,Male,East,Cardiology,Medication,Emergency,5.5,41428,69,0.07,Inpatient,2899.96
+3563,03/10/2031,18-30,Male,South,Cardiology,Observation,Routine,6.6,74375,64,0.18,Inpatient,13387.5
+3750,07/04/2032,60+,Male,East,Cardiology,Medication,Routine,4.8,46006,88,0.17,Inpatient,7821.02
+3191,26/09/2030,31-45,Female,North,General Medicine,Observation,Routine,5.4,34211,62,0.2,Inpatient,6842.2
+2993,12/03/2030,31-45,Female,North,Orthopedics,Surgery,Routine,3.5,51823,71,0.33,Inpatient,17101.59
+4198,29/06/2033,31-45,Male,East,General Medicine,Observation,Emergency,6.7,37406,62,0.35,Inpatient,13092.1
+2959,06/02/2030,31-45,Male,West,Pediatrics,Observation,Routine,6.8,50532,77,0.2,Inpatient,10106.4
+4598,03/08/2034,18-30,Female,East,Pediatrics,Surgery,Routine,1.9,61410,66,0.45,Inpatient,27634.5
+162,11/06/2022,46-60,Female,East,Pediatrics,Medication,Emergency,2.8,47755,52,0.39,Inpatient,18624.45
+1105,09/01/2025,60+,Male,West,General Medicine,Medication,Routine,6.4,46757,58,0.41,Inpatient,19170.37
+1398,29/10/2025,18-30,Male,West,Neurology,Therapy,Routine,3.4,27464,75,0.12,Inpatient,3295.68
+525,09/06/2023,46-60,Male,East,General Medicine,Surgery,Routine,4.8,57868,80,0.5,Inpatient,28934.0
+4528,25/05/2034,60+,Female,East,Orthopedics,Medication,Routine,3.1,34823,68,0.11,Inpatient,3830.53
+4749,01/01/2035,31-45,Male,South,Cardiology,Therapy,Emergency,4.4,57481,77,0.15,Inpatient,8622.15
+1033,29/10/2024,18-30,Female,South,Orthopedics,Therapy,Routine,6.2,67110,78,0.05,Inpatient,3355.5
+453,29/03/2023,31-45,Male,West,Neurology,Medication,Emergency,3.7,44811,70,0.26,Inpatient,11650.86
+477,22/04/2023,18-30,Male,West,Pediatrics,Surgery,Routine,5.1,22581,60,0.02,Inpatient,451.62
+692,23/11/2023,31-45,Male,West,Neurology,Observation,Routine,3.8,42717,82,0.2,Inpatient,8543.4
+4275,14/09/2033,46-60,Male,North,General Medicine,Surgery,Emergency,1.6,56946,70,0.1,Inpatient,5694.6
+3703,20/02/2032,31-45,Female,South,Orthopedics,Surgery,Emergency,3.3,51401,51,0.46,Inpatient,23644.46
+2105,06/10/2027,46-60,Female,South,Cardiology,Observation,Routine,8.7,60441,66,0.39,Inpatient,23571.99
+3889,24/08/2032,46-60,Female,West,Orthopedics,Therapy,Routine,4.2,88090,73,0.56,Inpatient,49330.4
+3155,21/08/2030,31-45,Female,East,Orthopedics,Medication,Routine,6.5,103092,90,0.07,Inpatient,7216.44
+1146,19/02/2025,60+,Male,South,Orthopedics,Observation,Routine,4.7,45462,62,0.29,Inpatient,13183.98
+2615,27/02/2029,31-45,Female,North,Orthopedics,Observation,Routine,4.0,19342,68,0.33,Inpatient,6382.86
+416,20/02/2023,31-45,Male,South,Orthopedics,Observation,Emergency,0.3,56002,77,0.41,Inpatient,22960.82
+619,11/09/2023,46-60,Male,East,Orthopedics,Medication,Emergency,3.6,51039,82,0.36,Inpatient,18374.04
+3729,17/03/2032,18-30,Male,West,Orthopedics,Observation,Emergency,4.5,42861,79,0.25,Inpatient,10715.25
+109,19/04/2022,18-30,Female,East,General Medicine,Surgery,Emergency,3.0,37868,62,0.07,Inpatient,2650.76
+2283,01/04/2028,31-45,Female,North,Pediatrics,Medication,Emergency,2.7,59239,84,0.37,Inpatient,21918.43
+189,08/07/2022,31-45,Female,South,General Medicine,Surgery,Emergency,2.7,17100,96,0.17,Inpatient,2907.0
+4140,02/05/2033,31-45,Male,East,General Medicine,Surgery,Routine,7.0,41295,94,0.09,Inpatient,3716.55
+3385,08/04/2031,18-30,Male,West,General Medicine,Therapy,Routine,7.8,65114,87,0.53,Inpatient,34510.42
+4005,18/12/2032,18-30,Male,West,Neurology,Observation,Routine,2.6,65612,94,0.24,Inpatient,15746.88
+1623,11/06/2026,31-45,Female,South,Cardiology,Surgery,Routine,3.6,45811,81,0.5,Inpatient,22905.5
+3282,26/12/2030,18-30,Male,South,Pediatrics,Therapy,Routine,4.1,58365,70,0.38,Inpatient,22178.7
+3977,20/11/2032,31-45,Female,West,Neurology,Observation,Routine,3.6,57998,71,0.26,Inpatient,15079.48
+4427,13/02/2034,18-30,Female,West,General Medicine,Therapy,Routine,3.7,24793,69,0.2,Inpatient,4958.6
+4678,22/10/2034,60+,Male,West,General Medicine,Observation,Routine,2.5,69132,67,0.22,Inpatient,15209.04
+4485,12/04/2034,18-30,Male,West,General Medicine,Observation,Routine,7.6,48647,56,0.17,Inpatient,8269.99
+2708,31/05/2029,31-45,Male,West,Neurology,Therapy,Routine,5.5,52450,80,0.47,Inpatient,24651.5
+4320,29/10/2033,31-45,Female,South,Orthopedics,Observation,Routine,3.2,38761,70,0.15,Inpatient,5814.15
+4439,25/02/2034,60+,Male,East,Neurology,Surgery,Emergency,0.5,75070,59,0.02,Inpatient,1501.4
+3056,14/05/2030,60+,Male,South,Orthopedics,Medication,Routine,8.3,40314,72,0.36,Inpatient,14513.04
+1885,28/02/2027,18-30,Male,North,General Medicine,Therapy,Emergency,2.0,65034,73,0.1,Inpatient,6503.4
+2607,19/02/2029,18-30,Male,South,Neurology,Surgery,Routine,2.5,64571,50,0.27,Inpatient,17434.17
+3324,06/02/2031,31-45,Male,South,Orthopedics,Surgery,Routine,2.7,77192,68,0.31,Inpatient,23929.52
+2420,16/08/2028,31-45,Female,North,Cardiology,Surgery,Routine,2.4,54839,56,0.2,Inpatient,10967.8
+1973,27/05/2027,31-45,Male,East,General Medicine,Therapy,Routine,0.7,37812,78,0.43,Inpatient,16259.16
+331,27/11/2022,31-45,Male,North,General Medicine,Therapy,Routine,5.6,34864,78,0.32,Inpatient,11156.48
+1147,20/02/2025,46-60,Female,North,Pediatrics,Surgery,Emergency,2.2,71777,75,0.38,Inpatient,27275.26
+3419,12/05/2031,18-30,Female,West,Orthopedics,Therapy,Routine,7.2,46354,93,0.56,Inpatient,25958.24
+2566,09/01/2029,31-45,Male,North,Pediatrics,Surgery,Routine,4.1,20923,70,0.33,Inpatient,6904.59
+1324,16/08/2025,18-30,Male,North,Orthopedics,Therapy,Routine,3.8,61681,73,0.5,Inpatient,30840.5
+3518,19/08/2031,31-45,Male,West,Neurology,Therapy,Emergency,3.4,47796,91,0.38,Inpatient,18162.48
+446,22/03/2023,60+,Female,West,General Medicine,Medication,Routine,5.0,12689,75,0.27,Inpatient,3426.03
+2097,28/09/2027,31-45,Male,West,General Medicine,Medication,Routine,2.3,84157,78,0.19,Inpatient,15989.83
+413,17/02/2023,60+,Female,East,Neurology,Medication,Emergency,3.2,27908,77,0.15,Inpatient,4186.2
+383,18/01/2023,46-60,Female,North,General Medicine,Surgery,Routine,6.6,93805,70,0.26,Inpatient,24389.3
+2776,07/08/2029,31-45,Male,North,General Medicine,Medication,Emergency,4.9,77102,74,0.15,Inpatient,11565.3
+3394,17/04/2031,31-45,Male,South,Pediatrics,Therapy,Routine,2.2,55601,100,0.55,Inpatient,30580.55
+1758,24/10/2026,31-45,Male,East,Cardiology,Observation,Emergency,5.6,60585,72,0.44,Inpatient,26657.4
+3059,17/05/2030,18-30,Male,North,Cardiology,Medication,Emergency,2.8,69521,61,0.3,Inpatient,20856.3
+460,05/04/2023,18-30,Female,West,Neurology,Surgery,Emergency,1.9,36064,64,0.31,Inpatient,11179.84
+2882,21/11/2029,60+,Female,West,Orthopedics,Observation,Routine,6.4,48725,53,0.34,Inpatient,16566.5
+494,09/05/2023,18-30,Male,West,Neurology,Therapy,Routine,3.7,58412,100,0.32,Inpatient,18691.84
+835,14/04/2024,31-45,Male,East,Orthopedics,Medication,Emergency,1.7,51931,76,0.48,Inpatient,24926.88
+4373,21/12/2033,18-30,Male,South,Orthopedics,Medication,Routine,3.3,40269,58,0.46,Inpatient,18523.74
+4519,16/05/2034,18-30,Male,North,Cardiology,Therapy,Routine,3.8,42004,77,0.2,Inpatient,8400.8
+4312,21/10/2033,60+,Male,East,Pediatrics,Surgery,Routine,5.3,42256,66,0.43,Inpatient,18170.08
+1191,05/04/2025,18-30,Female,North,Neurology,Surgery,Routine,9.2,63991,74,0.24,Inpatient,15357.84
+262,19/09/2022,60+,Female,North,Pediatrics,Medication,Emergency,6.4,81376,70,0.5,Inpatient,40688.0
+248,05/09/2022,60+,Female,North,Cardiology,Observation,Emergency,4.0,59757,62,0.33,Inpatient,19719.81
+386,21/01/2023,46-60,Male,East,Cardiology,Surgery,Routine,6.7,22409,75,0.29,Inpatient,6498.61
+1570,19/04/2026,31-45,Female,East,Pediatrics,Surgery,Routine,3.2,46700,99,0.48,Inpatient,22416.0
+2644,28/03/2029,46-60,Male,South,Pediatrics,Medication,Routine,4.1,96048,53,0.11,Inpatient,10565.28
+4981,21/08/2035,60+,Female,North,Orthopedics,Observation,Routine,5.3,106037,67,0.21,Inpatient,22267.77
+4034,16/01/2033,60+,Male,North,General Medicine,Surgery,Emergency,7.0,56625,89,0.27,Inpatient,15288.75
+4278,17/09/2033,31-45,Male,West,Orthopedics,Observation,Routine,1.9,75891,67,0.01,Inpatient,758.91
+2268,17/03/2028,46-60,Female,North,General Medicine,Observation,Routine,4.4,33513,78,0.63,Inpatient,21113.19
+721,22/12/2023,60+,Female,South,Pediatrics,Surgery,Routine,7.4,42668,69,0.51,Inpatient,21760.68
+2162,02/12/2027,46-60,Male,South,Pediatrics,Surgery,Emergency,3.1,59909,77,0.26,Inpatient,15576.34
+127,07/05/2022,46-60,Male,North,General Medicine,Surgery,Emergency,6.2,50136,72,0.39,Inpatient,19553.04
+1989,12/06/2027,31-45,Female,East,Orthopedics,Surgery,Emergency,3.2,59484,74,0.18,Inpatient,10707.12
+2133,03/11/2027,31-45,Male,South,Pediatrics,Therapy,Routine,4.3,53582,72,0.37,Inpatient,19825.34
+107,17/04/2022,31-45,Male,West,Cardiology,Observation,Routine,5.8,42908,68,0.16,Inpatient,6865.28
+4239,09/08/2033,46-60,Female,East,Pediatrics,Medication,Routine,6.9,50220,100,0.36,Inpatient,18079.2
+4475,02/04/2034,46-60,Male,North,Cardiology,Medication,Routine,4.9,42372,71,0.3,Inpatient,12711.6
+1503,11/02/2026,18-30,Female,West,Neurology,Therapy,Routine,8.2,59621,79,0.69,Inpatient,41138.49
+3547,17/09/2031,18-30,Female,East,General Medicine,Therapy,Emergency,1.8,57663,71,0.18,Inpatient,10379.34
+3912,16/09/2032,31-45,Female,South,Pediatrics,Observation,Routine,0.8,59520,70,0.22,Inpatient,13094.4
+3292,05/01/2031,60+,Male,West,Neurology,Surgery,Routine,0.4,36357,72,0.63,Inpatient,22904.91
+1276,29/06/2025,18-30,Male,North,General Medicine,Surgery,Routine,5.4,13826,63,0.43,Inpatient,5945.18
+3913,17/09/2032,18-30,Female,North,Pediatrics,Therapy,Routine,4.7,58954,68,0.45,Inpatient,26529.3
+4928,29/06/2035,18-30,Female,West,Neurology,Observation,Emergency,7.3,34295,64,0.11,Inpatient,3772.45
+786,25/02/2024,60+,Female,East,Neurology,Therapy,Routine,2.4,29616,82,0.41,Inpatient,12142.56
+1331,23/08/2025,31-45,Female,East,Cardiology,Medication,Routine,7.5,85587,88,0.22,Inpatient,18829.14
+4277,16/09/2033,31-45,Male,East,Cardiology,Medication,Emergency,5.8,77884,100,0.24,Inpatient,18692.16
+449,25/03/2023,31-45,Female,North,General Medicine,Medication,Routine,6.7,72388,72,0.78,Inpatient,56462.64
+1993,16/06/2027,46-60,Female,West,Pediatrics,Medication,Routine,2.5,74512,84,0.39,Inpatient,29059.68
+2549,23/12/2028,31-45,Female,East,Cardiology,Therapy,Routine,0.6,67512,59,0.23,Inpatient,15527.76
+1636,24/06/2026,18-30,Male,South,General Medicine,Surgery,Routine,4.3,39701,76,0.37,Inpatient,14689.37
+4081,04/03/2033,46-60,Female,East,Cardiology,Medication,Emergency,6.6,77021,77,0.16,Inpatient,12323.36
+3569,09/10/2031,46-60,Male,South,General Medicine,Medication,Routine,5.6,35880,68,0.18,Inpatient,6458.4
+4882,14/05/2035,31-45,Female,West,Neurology,Surgery,Routine,2.4,26888,75,0.2,Inpatient,5377.6
+744,14/01/2024,31-45,Female,East,Pediatrics,Medication,Routine,3.8,43272,67,0.55,Inpatient,23799.6
+506,21/05/2023,18-30,Male,East,General Medicine,Surgery,Routine,5.0,61420,80,0.29,Inpatient,17811.8
+3071,29/05/2030,46-60,Male,North,Cardiology,Surgery,Routine,2.1,52311,88,0.09,Inpatient,4707.99
+4349,27/11/2033,46-60,Male,North,Neurology,Medication,Routine,7.2,99116,74,0.41,Inpatient,40637.56
+2990,09/03/2030,60+,Male,East,Cardiology,Observation,Routine,4.6,63679,83,0.51,Inpatient,32476.29
+4356,04/12/2033,46-60,Female,East,Cardiology,Observation,Routine,2.0,80071,88,0.14,Inpatient,11209.94
+3493,25/07/2031,60+,Male,West,General Medicine,Observation,Emergency,1.2,56130,68,0.47,Inpatient,26381.1
+395,30/01/2023,31-45,Male,South,Cardiology,Observation,Emergency,5.7,58293,45,0.11,Inpatient,6412.23
+2179,19/12/2027,46-60,Male,East,Orthopedics,Medication,Routine,5.3,51705,84,0.4,Inpatient,20682.0
+4562,28/06/2034,31-45,Male,North,Orthopedics,Therapy,Routine,6.0,84429,73,0.08,Inpatient,6754.32
+1368,29/09/2025,60+,Female,South,Orthopedics,Surgery,Emergency,5.8,51339,72,0.2,Inpatient,10267.8
+4039,21/01/2033,46-60,Female,South,Neurology,Medication,Routine,4.8,58017,74,0.82,Inpatient,47573.94
+4780,01/02/2035,18-30,Male,West,General Medicine,Surgery,Routine,5.0,51982,87,0.23,Inpatient,11955.86
+3865,31/07/2032,18-30,Female,North,Neurology,Surgery,Routine,7.4,27184,75,0.37,Inpatient,10058.08
+2456,21/09/2028,18-30,Female,West,Pediatrics,Surgery,Routine,0.9,56422,59,0.08,Inpatient,4513.76
+3443,05/06/2031,18-30,Male,East,Pediatrics,Surgery,Routine,8.7,54995,73,0.27,Inpatient,14848.65
+3454,16/06/2031,31-45,Female,East,Cardiology,Medication,Routine,2.0,76746,57,0.4,Inpatient,30698.4
+4223,24/07/2033,60+,Male,West,Orthopedics,Surgery,Routine,6.5,89378,66,0.46,Inpatient,41113.88
+634,26/09/2023,31-45,Male,South,Neurology,Observation,Emergency,4.4,86408,75,0.46,Inpatient,39747.68
+184,03/07/2022,60+,Female,North,Cardiology,Surgery,Routine,3.5,73147,64,0.72,Inpatient,52665.84
+521,05/06/2023,31-45,Male,East,General Medicine,Observation,Routine,5.5,44537,54,0.23,Inpatient,10243.51
+4706,19/11/2034,31-45,Female,West,General Medicine,Therapy,Routine,3.9,39903,62,0.4,Inpatient,15961.2
+4028,10/01/2033,18-30,Male,North,Pediatrics,Observation,Routine,6.4,79453,69,0.15,Inpatient,11917.95
+2712,04/06/2029,31-45,Female,West,Pediatrics,Surgery,Routine,3.8,39483,54,0.48,Inpatient,18951.84
+2244,22/02/2028,60+,Female,West,General Medicine,Therapy,Routine,8.8,38337,81,0.32,Inpatient,12267.84
+1066,01/12/2024,46-60,Female,North,Pediatrics,Therapy,Routine,1.4,30416,95,0.17,Inpatient,5170.72
+480,25/04/2023,31-45,Male,West,General Medicine,Therapy,Routine,3.7,24081,99,0.21,Inpatient,5057.01
+3927,01/10/2032,46-60,Male,West,Neurology,Observation,Routine,3.8,61726,66,0.43,Inpatient,26542.18
+2726,18/06/2029,31-45,Female,South,Cardiology,Surgery,Emergency,8.2,59428,76,0.39,Inpatient,23176.92
+3957,31/10/2032,60+,Female,North,Pediatrics,Medication,Routine,4.1,56881,70,0.34,Inpatient,19339.54
+3306,19/01/2031,31-45,Male,West,General Medicine,Observation,Routine,5.2,89006,77,0.04,Inpatient,3560.24
+4483,10/04/2034,31-45,Female,West,Neurology,Surgery,Routine,3.1,70078,82,0.36,Inpatient,25228.08
+2434,30/08/2028,31-45,Female,West,Cardiology,Medication,Routine,4.1,77496,63,0.29,Inpatient,22473.84
+3857,23/07/2032,31-45,Male,South,Cardiology,Therapy,Emergency,1.2,78345,50,0.47,Inpatient,36822.15
+3596,05/11/2031,46-60,Male,East,Orthopedics,Medication,Routine,2.2,65256,75,0.13,Inpatient,8483.28
+3716,04/03/2032,31-45,Male,South,Cardiology,Observation,Emergency,1.6,83666,79,0.1,Inpatient,8366.6
+2730,22/06/2029,31-45,Female,East,Orthopedics,Therapy,Routine,7.0,37740,75,0.2,Inpatient,7548.0
+4434,20/02/2034,60+,Male,East,Neurology,Therapy,Routine,6.8,71234,94,0.31,Inpatient,22082.54
+2486,21/10/2028,60+,Male,East,Orthopedics,Medication,Routine,0.7,54749,84,0.51,Inpatient,27921.99
+4685,29/10/2034,46-60,Female,West,General Medicine,Medication,Routine,5.5,49462,71,0.07,Inpatient,3462.34
+2778,09/08/2029,18-30,Male,West,General Medicine,Observation,Routine,4.0,51203,69,0.27,Inpatient,13824.81
+2112,13/10/2027,18-30,Female,West,General Medicine,Medication,Emergency,4.3,41994,71,0.15,Inpatient,6299.1
+568,22/07/2023,31-45,Female,East,Orthopedics,Surgery,Emergency,5.4,60498,79,0.21,Inpatient,12704.58
+4232,02/08/2033,31-45,Female,North,General Medicine,Therapy,Routine,7.3,52829,85,0.07,Inpatient,3698.03
+2511,15/11/2028,18-30,Male,South,Neurology,Observation,Routine,2.2,56095,72,0.2,Inpatient,11219.0
+4903,04/06/2035,18-30,Male,South,General Medicine,Medication,Emergency,1.8,76633,77,0.25,Inpatient,19158.25
+1608,27/05/2026,46-60,Female,North,Pediatrics,Observation,Routine,1.7,22638,61,0.4,Inpatient,9055.2
+4933,04/07/2035,60+,Male,North,Pediatrics,Surgery,Routine,4.8,45094,100,0.15,Inpatient,6764.1
+2833,03/10/2029,18-30,Female,North,Orthopedics,Therapy,Routine,6.5,32923,64,0.23,Inpatient,7572.29
+367,02/01/2023,60+,Female,West,Neurology,Surgery,Emergency,3.4,19533,58,0.3,Inpatient,5859.9
+2098,29/09/2027,46-60,Male,North,Neurology,Observation,Routine,3.7,52320,69,0.15,Inpatient,7848.0
+1280,03/07/2025,31-45,Female,West,General Medicine,Therapy,Emergency,6.2,77691,61,0.1,Inpatient,7769.1
+190,09/07/2022,18-30,Male,North,Neurology,Observation,Emergency,7.4,77550,92,0.3,Inpatient,23265.0
+2140,10/11/2027,60+,Female,West,Pediatrics,Surgery,Routine,0.7,25191,100,0.29,Inpatient,7305.39
+1927,11/04/2027,31-45,Female,East,Neurology,Medication,Routine,1.4,38574,55,0.26,Inpatient,10029.24
+4426,12/02/2034,31-45,Male,West,Cardiology,Medication,Routine,2.6,65682,74,0.33,Inpatient,21675.06
+4865,27/04/2035,31-45,Male,West,Cardiology,Therapy,Emergency,3.8,41437,75,0.47,Inpatient,19475.39
+3057,15/05/2030,46-60,Female,East,Neurology,Surgery,Routine,5.6,43697,72,0.52,Inpatient,22722.44
+4917,18/06/2035,31-45,Male,North,Neurology,Medication,Emergency,4.7,48383,73,0.02,Inpatient,967.66
+1371,02/10/2025,60+,Male,North,Neurology,Observation,Routine,3.8,31851,100,0.52,Inpatient,16562.52
+2035,28/07/2027,46-60,Female,South,Neurology,Medication,Routine,6.0,69210,76,0.58,Inpatient,40141.8
+3244,18/11/2030,46-60,Female,South,Pediatrics,Medication,Routine,6.5,53336,88,0.33,Inpatient,17600.88
+2452,17/09/2028,60+,Male,East,Pediatrics,Surgery,Routine,0.1,58036,66,0.37,Inpatient,21473.32
+238,26/08/2022,18-30,Male,East,General Medicine,Surgery,Routine,4.6,54138,73,0.28,Inpatient,15158.64
+468,13/04/2023,60+,Female,South,Pediatrics,Medication,Routine,3.3,65608,75,0.12,Inpatient,7872.96
+1765,31/10/2026,18-30,Female,East,Pediatrics,Surgery,Routine,7.2,64669,83,0.27,Inpatient,17460.63
+3274,18/12/2030,31-45,Male,East,Neurology,Therapy,Emergency,3.4,49928,91,0.08,Inpatient,3994.24
+2382,09/07/2028,60+,Female,South,Orthopedics,Medication,Routine,2.0,73590,82,0.33,Inpatient,24284.7
+147,27/05/2022,46-60,Female,South,Neurology,Surgery,Emergency,5.0,37576,69,0.15,Inpatient,5636.4
+3412,05/05/2031,18-30,Male,South,Neurology,Therapy,Emergency,3.7,63220,76,0.15,Inpatient,9483.0
+785,24/02/2024,18-30,Female,East,Orthopedics,Surgery,Emergency,3.8,55252,85,0.17,Inpatient,9392.84
+3860,26/07/2032,46-60,Female,North,Neurology,Observation,Routine,3.8,52263,77,0.36,Inpatient,18814.68
+4777,29/01/2035,18-30,Male,East,Neurology,Observation,Routine,4.5,60294,66,0.28,Inpatient,16882.32
+3011,30/03/2030,31-45,Male,North,General Medicine,Medication,Routine,5.4,20253,82,0.24,Inpatient,4860.72
+3100,27/06/2030,31-45,Male,West,General Medicine,Therapy,Emergency,1.2,63819,49,0.44,Inpatient,28080.36
+955,12/08/2024,31-45,Male,North,Orthopedics,Surgery,Routine,5.4,100517,68,0.15,Inpatient,15077.55
+3308,21/01/2031,18-30,Female,West,General Medicine,Medication,Routine,6.8,79122,76,0.39,Inpatient,30857.58
+4386,03/01/2034,31-45,Male,East,Cardiology,Observation,Routine,7.4,29455,78,0.3,Inpatient,8836.5
+1581,30/04/2026,18-30,Female,South,Cardiology,Therapy,Routine,3.8,36033,83,0.46,Inpatient,16575.18
+3542,12/09/2031,46-60,Male,West,General Medicine,Surgery,Routine,3.1,34941,86,0.51,Inpatient,17819.91
+3935,09/10/2032,31-45,Male,West,Orthopedics,Medication,Emergency,4.8,84089,85,0.12,Inpatient,10090.68
+1682,09/08/2026,60+,Female,West,Orthopedics,Therapy,Emergency,3.0,52482,62,0.04,Inpatient,2099.28
+4199,30/06/2033,31-45,Male,North,Neurology,Surgery,Routine,3.5,61656,80,0.21,Inpatient,12947.76
+1258,11/06/2025,31-45,Male,West,General Medicine,Surgery,Routine,6.2,50891,69,0.47,Inpatient,23918.77
+335,01/12/2022,18-30,Male,South,Neurology,Observation,Routine,3.3,60286,54,0.43,Inpatient,25922.98
+3867,02/08/2032,31-45,Male,East,Orthopedics,Observation,Routine,3.2,47542,77,0.18,Inpatient,8557.56
+1725,21/09/2026,46-60,Female,West,Cardiology,Surgery,Routine,3.4,21245,70,0.31,Inpatient,6585.95
+3854,20/07/2032,60+,Female,North,Orthopedics,Surgery,Routine,0.2,71240,82,0.18,Inpatient,12823.2
+2527,01/12/2028,18-30,Male,North,General Medicine,Surgery,Routine,0.3,63611,52,0.17,Inpatient,10813.87
+4196,27/06/2033,18-30,Male,South,Orthopedics,Therapy,Routine,1.3,39045,56,0.2,Inpatient,7809.0
+2521,25/11/2028,46-60,Female,East,Orthopedics,Medication,Routine,3.7,27539,72,0.33,Inpatient,9087.87
+650,12/10/2023,31-45,Female,East,Cardiology,Medication,Routine,3.9,55775,88,0.33,Inpatient,18405.75
+380,15/01/2023,31-45,Male,North,General Medicine,Surgery,Emergency,4.5,55114,89,0.08,Inpatient,4409.12
+305,01/11/2022,46-60,Male,South,Orthopedics,Surgery,Emergency,5.3,25097,92,0.37,Inpatient,9285.89
+239,27/08/2022,46-60,Female,North,Neurology,Therapy,Routine,4.9,61045,62,0.41,Inpatient,25028.45
+1310,02/08/2025,46-60,Female,East,Pediatrics,Observation,Emergency,3.8,62325,63,0.23,Inpatient,14334.75
+825,04/04/2024,31-45,Female,East,Neurology,Surgery,Routine,3.3,68921,78,0.28,Inpatient,19297.88
+2360,17/06/2028,18-30,Male,East,Neurology,Observation,Routine,3.9,86239,75,0.1,Inpatient,8623.9
+2146,16/11/2027,46-60,Male,East,Neurology,Medication,Emergency,4.2,19836,72,0.15,Inpatient,2975.4
+352,18/12/2022,60+,Female,South,Cardiology,Therapy,Routine,5.7,61291,71,0.24,Inpatient,14709.84
+4733,16/12/2034,46-60,Male,South,Cardiology,Surgery,Routine,3.6,44445,81,0.31,Inpatient,13777.95
+1285,08/07/2025,31-45,Male,East,General Medicine,Therapy,Routine,3.3,73696,69,0.07,Inpatient,5158.72
+3267,11/12/2030,31-45,Female,West,Neurology,Medication,Emergency,6.9,16379,70,0.32,Inpatient,5241.28
+4719,02/12/2034,31-45,Female,South,Neurology,Therapy,Routine,3.6,85675,75,0.13,Inpatient,11137.75
+3467,29/06/2031,31-45,Female,West,Pediatrics,Observation,Routine,1.9,40013,60,0.23,Inpatient,9202.99
+2983,02/03/2030,46-60,Female,East,Cardiology,Observation,Emergency,1.0,82144,79,0.14,Inpatient,11500.16
+743,13/01/2024,46-60,Male,East,Pediatrics,Surgery,Emergency,2.1,29301,70,0.2,Inpatient,5860.2
+3501,02/08/2031,31-45,Male,West,Cardiology,Therapy,Routine,5.0,42336,84,0.23,Inpatient,9737.28
+4350,28/11/2033,46-60,Female,West,General Medicine,Observation,Routine,2.9,66329,92,0.39,Inpatient,25868.31
+4603,08/08/2034,60+,Female,South,Pediatrics,Observation,Emergency,5.0,41952,76,0.13,Inpatient,5453.76
+398,02/02/2023,31-45,Female,North,Cardiology,Observation,Routine,4.8,58154,51,0.15,Inpatient,8723.1
+1023,19/10/2024,60+,Male,West,General Medicine,Observation,Emergency,8.0,40041,86,0.33,Inpatient,13213.53
+2857,27/10/2029,18-30,Female,East,Cardiology,Surgery,Routine,8.0,76217,57,0.33,Inpatient,25151.61
+3804,31/05/2032,60+,Female,East,General Medicine,Surgery,Routine,3.8,70781,81,0.51,Inpatient,36098.31
+3808,04/06/2032,31-45,Male,East,Neurology,Medication,Routine,5.1,47629,76,0.18,Inpatient,8573.22
+3504,05/08/2031,18-30,Female,East,General Medicine,Surgery,Emergency,2.0,43291,88,0.32,Inpatient,13853.12
+3995,08/12/2032,31-45,Male,South,Cardiology,Surgery,Routine,3.2,53148,80,0.31,Inpatient,16475.88
+4293,02/10/2033,31-45,Female,West,Neurology,Medication,Emergency,2.6,70166,59,0.4,Inpatient,28066.4
+315,11/11/2022,46-60,Male,North,Neurology,Therapy,Routine,5.6,12954,79,0.11,Inpatient,1424.94
+1957,11/05/2027,46-60,Female,North,Cardiology,Surgery,Emergency,5.7,30719,63,0.54,Inpatient,16588.26
+181,30/06/2022,31-45,Female,South,Neurology,Observation,Routine,4.0,67772,65,0.46,Inpatient,31175.12
+1173,18/03/2025,46-60,Female,North,Cardiology,Therapy,Routine,3.3,68392,79,0.2,Inpatient,13678.4
+2042,04/08/2027,31-45,Male,West,Cardiology,Medication,Routine,3.9,78295,83,0.22,Inpatient,17224.9
+179,28/06/2022,60+,Male,North,Pediatrics,Surgery,Emergency,4.0,73486,77,0.39,Inpatient,28659.54
+4019,01/01/2033,31-45,Female,North,Cardiology,Therapy,Routine,3.6,57306,92,0.14,Inpatient,8022.84
+4307,16/10/2033,31-45,Female,South,General Medicine,Therapy,Routine,1.8,56901,68,0.29,Inpatient,16501.29
+378,13/01/2023,18-30,Female,West,Orthopedics,Medication,Emergency,2.8,47459,72,0.24,Inpatient,11390.16
+748,18/01/2024,31-45,Female,North,Cardiology,Therapy,Emergency,4.2,58395,65,0.13,Inpatient,7591.35
+3366,20/03/2031,46-60,Male,South,Orthopedics,Surgery,Routine,7.0,55963,85,0.22,Inpatient,12311.86
+4195,26/06/2033,46-60,Female,South,Cardiology,Surgery,Emergency,7.1,32707,100,0.34,Inpatient,11120.38
+2535,09/12/2028,46-60,Male,North,Cardiology,Therapy,Routine,1.9,66450,73,0.06,Inpatient,3987.0
+3830,26/06/2032,18-30,Female,West,Cardiology,Medication,Routine,5.1,77732,77,0.13,Inpatient,10105.16
+2487,22/10/2028,31-45,Female,South,Pediatrics,Medication,Emergency,7.9,41559,88,0.52,Inpatient,21610.68
+1686,13/08/2026,60+,Female,West,Neurology,Observation,Routine,7.9,30323,83,0.18,Inpatient,5458.14
+4612,17/08/2034,18-30,Female,East,Cardiology,Observation,Emergency,3.6,55329,60,0.16,Inpatient,8852.64
+2261,10/03/2028,46-60,Male,East,Orthopedics,Observation,Emergency,5.1,53386,68,0.58,Inpatient,30963.88
+336,02/12/2022,18-30,Male,South,Pediatrics,Therapy,Emergency,1.4,102368,92,0.15,Inpatient,15355.2
+3591,31/10/2031,60+,Male,North,General Medicine,Medication,Routine,5.8,38615,73,0.13,Inpatient,5019.95
+932,20/07/2024,46-60,Male,East,Cardiology,Surgery,Emergency,4.4,53519,76,0.39,Inpatient,20872.41
+1295,18/07/2025,46-60,Male,West,Orthopedics,Therapy,Emergency,1.3,62699,67,0.3,Inpatient,18809.7
+1168,13/03/2025,31-45,Male,North,General Medicine,Medication,Routine,3.7,40663,64,0.71,Inpatient,28870.73
+364,30/12/2022,31-45,Male,West,General Medicine,Medication,Routine,4.2,68816,58,0.07,Inpatient,4817.12
+3829,25/06/2032,46-60,Male,North,Pediatrics,Surgery,Routine,3.1,30835,83,0.14,Inpatient,4316.9
+1860,03/02/2027,46-60,Female,North,Neurology,Surgery,Routine,3.2,29516,83,0.42,Inpatient,12396.72
+424,28/02/2023,31-45,Male,East,Cardiology,Surgery,Routine,1.3,41250,77,0.12,Inpatient,4950.0
+2454,19/09/2028,31-45,Female,North,Pediatrics,Therapy,Emergency,1.3,79494,79,0.44,Inpatient,34977.36
+3104,01/07/2030,31-45,Male,East,Pediatrics,Surgery,Routine,6.2,45799,67,0.54,Inpatient,24731.46
+2681,04/05/2029,31-45,Female,West,Cardiology,Therapy,Routine,3.5,44032,62,0.35,Inpatient,15411.2
+2514,18/11/2028,31-45,Female,South,Cardiology,Medication,Emergency,5.9,83368,86,0.16,Inpatient,13338.88
+1877,20/02/2027,31-45,Male,East,Orthopedics,Medication,Routine,2.3,59436,90,0.42,Inpatient,24963.12
+4560,26/06/2034,60+,Male,West,Cardiology,Surgery,Routine,5.6,87386,83,0.07,Inpatient,6117.02
+4940,11/07/2035,46-60,Male,South,Neurology,Therapy,Emergency,2.7,92544,77,0.15,Inpatient,13881.6
+118,28/04/2022,18-30,Female,West,Cardiology,Observation,Routine,4.1,43874,76,0.21,Inpatient,9213.54
+3942,16/10/2032,60+,Female,North,Neurology,Medication,Emergency,1.2,60039,70,0.57,Inpatient,34222.23
+541,25/06/2023,60+,Female,South,Neurology,Observation,Emergency,2.9,18102,92,0.14,Inpatient,2534.28
+3495,27/07/2031,46-60,Female,South,Orthopedics,Therapy,Routine,5.1,23725,70,0.37,Inpatient,8778.25
+2073,04/09/2027,18-30,Male,North,Pediatrics,Observation,Routine,4.3,58362,72,0.04,Inpatient,2334.48
+3614,23/11/2031,46-60,Male,South,Cardiology,Medication,Routine,4.0,62369,59,0.47,Inpatient,29313.43
+2376,03/07/2028,31-45,Female,East,Neurology,Observation,Routine,3.0,52699,71,0.52,Inpatient,27403.48
+1560,09/04/2026,60+,Male,South,Neurology,Surgery,Routine,3.8,57328,76,0.31,Inpatient,17771.68
+2215,24/01/2028,46-60,Female,North,Neurology,Surgery,Routine,4.5,67640,76,0.52,Inpatient,35172.8
+195,14/07/2022,31-45,Female,East,Orthopedics,Therapy,Routine,4.2,60011,71,0.2,Inpatient,12002.2
+385,20/01/2023,46-60,Female,East,Orthopedics,Observation,Routine,5.7,38665,99,0.48,Inpatient,18559.2
+2714,06/06/2029,31-45,Male,North,Pediatrics,Surgery,Routine,2.0,25752,61,0.22,Inpatient,5665.44
+3405,28/04/2031,46-60,Female,South,General Medicine,Surgery,Routine,5.4,23235,68,0.25,Inpatient,5808.75
+2055,17/08/2027,46-60,Male,West,Cardiology,Observation,Routine,5.6,68529,86,0.61,Inpatient,41802.69
+1367,28/09/2025,46-60,Male,North,Neurology,Surgery,Routine,4.4,80963,67,0.27,Inpatient,21860.01
+2620,04/03/2029,31-45,Male,West,Neurology,Surgery,Emergency,4.9,55872,90,0.3,Inpatient,16761.6
+4360,08/12/2033,18-30,Male,East,Pediatrics,Surgery,Emergency,2.6,49367,87,0.53,Inpatient,26164.51
+3225,30/10/2030,18-30,Male,East,Orthopedics,Medication,Emergency,4.6,67594,67,0.07,Inpatient,4731.58
+332,28/11/2022,46-60,Male,East,General Medicine,Observation,Routine,4.6,66985,65,0.27,Inpatient,18085.95
+1215,29/04/2025,46-60,Male,South,Neurology,Therapy,Routine,7.3,67666,97,0.34,Inpatient,23006.44
+4550,16/06/2034,46-60,Female,East,Orthopedics,Surgery,Routine,2.4,56977,69,0.32,Inpatient,18232.64
+495,10/05/2023,31-45,Male,West,Orthopedics,Surgery,Routine,3.7,45630,83,0.53,Inpatient,24183.9
+4551,17/06/2034,60+,Female,East,Pediatrics,Medication,Emergency,3.9,72081,75,0.42,Inpatient,30274.02
+1198,12/04/2025,60+,Female,East,Neurology,Surgery,Emergency,5.0,39175,83,0.38,Inpatient,14886.5
+3543,13/09/2031,18-30,Female,North,Neurology,Observation,Routine,6.3,57436,40,0.06,Inpatient,3446.16
+1428,28/11/2025,60+,Female,West,Cardiology,Medication,Emergency,3.5,45430,86,0.27,Inpatient,12266.1
+422,26/02/2023,46-60,Female,North,Orthopedics,Surgery,Routine,4.6,67932,71,0.25,Inpatient,16983.0
+2540,14/12/2028,46-60,Male,East,Neurology,Observation,Routine,4.3,18826,54,0.54,Inpatient,10166.04
+4800,21/02/2035,46-60,Male,North,Neurology,Therapy,Routine,5.4,33162,76,0.29,Inpatient,9616.98
+4327,05/11/2033,18-30,Male,North,Neurology,Medication,Routine,4.9,76612,59,0.12,Inpatient,9193.44
+461,06/04/2023,18-30,Female,West,General Medicine,Therapy,Routine,2.9,91243,84,0.23,Inpatient,20985.89
+1234,18/05/2025,18-30,Female,North,Cardiology,Observation,Emergency,4.5,74488,85,0.12,Inpatient,8938.56
+3384,07/04/2031,31-45,Female,East,Cardiology,Observation,Emergency,6.8,64305,84,0.22,Inpatient,14147.1
+3954,28/10/2032,18-30,Female,East,Orthopedics,Observation,Routine,4.1,42863,67,0.19,Inpatient,8143.97
+4758,10/01/2035,46-60,Male,West,General Medicine,Observation,Emergency,4.7,78195,79,0.29,Inpatient,22676.55
+3951,25/10/2032,18-30,Male,West,General Medicine,Observation,Routine,4.9,36510,75,0.24,Inpatient,8762.4
+4786,07/02/2035,31-45,Female,East,General Medicine,Therapy,Routine,0.7,30739,82,0.19,Inpatient,5840.41
+3924,28/09/2032,31-45,Female,West,General Medicine,Therapy,Routine,3.2,59994,68,0.08,Inpatient,4799.52
+1515,23/02/2026,18-30,Male,West,Neurology,Observation,Routine,5.4,74979,77,0.41,Inpatient,30741.39
+1981,04/06/2027,18-30,Male,West,General Medicine,Observation,Routine,3.2,45367,80,0.16,Inpatient,7258.72
+4571,07/07/2034,31-45,Female,West,Cardiology,Medication,Routine,1.4,57791,73,0.11,Inpatient,6357.01
+4430,16/02/2034,46-60,Male,South,Cardiology,Therapy,Routine,6.5,19074,72,0.52,Inpatient,9918.48
+2296,14/04/2028,18-30,Female,North,General Medicine,Therapy,Emergency,8.3,47091,79,0.46,Inpatient,21661.86
+2764,26/07/2029,31-45,Male,North,Pediatrics,Observation,Routine,2.9,17973,75,0.3,Inpatient,5391.9
+961,18/08/2024,18-30,Male,East,Orthopedics,Medication,Routine,2.7,67889,69,0.11,Inpatient,7467.79
+3608,17/11/2031,31-45,Male,West,General Medicine,Medication,Routine,2.6,39546,61,0.19,Inpatient,7513.74
+4937,08/07/2035,60+,Female,North,Orthopedics,Therapy,Routine,4.3,53906,74,0.14,Inpatient,7546.84
+1716,12/09/2026,60+,Male,North,Pediatrics,Therapy,Routine,2.9,28376,64,0.43,Inpatient,12201.68
+347,13/12/2022,46-60,Male,East,Pediatrics,Medication,Routine,0.4,23833,84,0.35,Inpatient,8341.55
+4543,09/06/2034,18-30,Female,East,Neurology,Therapy,Routine,6.6,71044,74,0.39,Inpatient,27707.16
+3964,07/11/2032,31-45,Male,West,Neurology,Therapy,Routine,1.9,55430,89,0.27,Inpatient,14966.1
+802,12/03/2024,18-30,Female,North,Orthopedics,Surgery,Routine,0.6,31400,82,0.21,Inpatient,6594.0
+3201,06/10/2030,31-45,Male,West,Cardiology,Therapy,Emergency,7.3,36257,77,0.18,Inpatient,6526.26
+4961,01/08/2035,31-45,Female,West,Orthopedics,Observation,Emergency,2.5,118179,84,0.62,Inpatient,73270.98
+703,04/12/2023,31-45,Male,North,Orthopedics,Medication,Emergency,4.6,74623,70,0.14,Inpatient,10447.22
+4814,07/03/2035,31-45,Male,North,Pediatrics,Observation,Emergency,2.9,64774,64,0.33,Inpatient,21375.42
+4594,30/07/2034,31-45,Male,West,Pediatrics,Observation,Routine,5.5,95371,72,0.45,Inpatient,42916.95
+2273,22/03/2028,31-45,Female,East,General Medicine,Therapy,Routine,3.6,33413,90,0.28,Inpatient,9355.64
+3613,22/11/2031,31-45,Male,South,Cardiology,Therapy,Routine,5.4,51328,70,0.13,Inpatient,6672.64
+156,05/06/2022,18-30,Male,East,General Medicine,Observation,Routine,0.3,79343,66,0.36,Inpatient,28563.48
+3573,13/10/2031,46-60,Male,South,Orthopedics,Medication,Routine,8.7,82351,77,0.05,Inpatient,4117.55
+2341,29/05/2028,46-60,Male,West,Pediatrics,Observation,Routine,2.5,27844,76,0.44,Inpatient,12251.36
+175,24/06/2022,46-60,Female,South,Orthopedics,Observation,Routine,3.7,50924,77,0.54,Inpatient,27498.96
+227,15/08/2022,60+,Female,South,General Medicine,Therapy,Routine,0.3,29238,73,0.09,Inpatient,2631.42
+1323,15/08/2025,60+,Female,South,Neurology,Medication,Routine,2.9,47265,70,0.26,Inpatient,12288.9
+133,13/05/2022,18-30,Female,West,Cardiology,Observation,Routine,3.9,39440,65,0.45,Inpatient,17748.0
+328,24/11/2022,46-60,Male,South,Cardiology,Surgery,Emergency,5.1,64535,65,0.42,Inpatient,27104.7
+1899,14/03/2027,31-45,Male,West,Neurology,Therapy,Emergency,1.6,64266,94,0.7,Inpatient,44986.2
+1533,13/03/2026,46-60,Male,East,Pediatrics,Therapy,Routine,0.0,89833,59,0.17,Outpatient,15271.61
+1172,17/03/2025,60+,Male,East,General Medicine,Therapy,Routine,5.6,13937,68,0.16,Inpatient,2229.92
+243,31/08/2022,60+,Female,North,Cardiology,Surgery,Emergency,6.3,83331,50,0.31,Inpatient,25832.61
+2766,28/07/2029,60+,Male,North,Cardiology,Surgery,Routine,4.7,104033,51,0.19,Inpatient,19766.27
+1969,23/05/2027,31-45,Male,North,Neurology,Medication,Emergency,1.2,58583,64,0.52,Inpatient,30463.16
+602,25/08/2023,31-45,Female,East,Neurology,Surgery,Routine,5.2,56441,66,0.49,Inpatient,27656.09
+2972,19/02/2030,18-30,Female,East,Neurology,Observation,Routine,5.5,58061,100,0.19,Inpatient,11031.59
+4387,04/01/2034,60+,Male,South,Neurology,Medication,Routine,3.5,44813,77,0.15,Inpatient,6721.95
+3158,24/08/2030,18-30,Female,North,Cardiology,Observation,Routine,4.3,53389,80,0.44,Inpatient,23491.16
+903,21/06/2024,18-30,Male,East,Pediatrics,Surgery,Routine,0.0,59211,61,0.1,Outpatient,5921.1
+2087,18/09/2027,18-30,Female,East,Cardiology,Observation,Emergency,6.5,73391,86,0.19,Inpatient,13944.29
+2552,26/12/2028,18-30,Female,West,General Medicine,Surgery,Routine,3.2,81638,79,0.43,Inpatient,35104.34
+4145,07/05/2033,60+,Female,South,Pediatrics,Therapy,Routine,0.8,35024,70,0.05,Inpatient,1751.2
+1924,08/04/2027,31-45,Male,West,Pediatrics,Surgery,Routine,1.7,54008,64,0.26,Inpatient,14042.08
+275,02/10/2022,31-45,Female,North,Pediatrics,Surgery,Routine,3.7,70250,54,0.15,Inpatient,10537.5
+4384,01/01/2034,31-45,Female,East,Orthopedics,Observation,Routine,8.8,20985,78,0.11,Inpatient,2308.35
+2626,10/03/2029,60+,Female,South,Orthopedics,Medication,Emergency,4.3,69460,85,0.33,Inpatient,22921.8
+1659,17/07/2026,31-45,Male,East,Orthopedics,Therapy,Routine,4.3,39085,94,0.15,Inpatient,5862.75
+3336,18/02/2031,46-60,Female,West,Cardiology,Observation,Emergency,1.8,29811,75,0.35,Inpatient,10433.85
+4079,02/03/2033,46-60,Female,East,Cardiology,Medication,Routine,5.8,68914,71,0.16,Inpatient,11026.24
+699,30/11/2023,18-30,Female,West,General Medicine,Therapy,Routine,6.5,47511,82,0.13,Inpatient,6176.43
+1764,30/10/2026,31-45,Female,West,Neurology,Surgery,Routine,1.6,26505,85,0.49,Inpatient,12987.45
+444,20/03/2023,31-45,Male,North,Cardiology,Medication,Emergency,2.5,76736,51,0.31,Inpatient,23788.16
+2414,10/08/2028,18-30,Male,West,Cardiology,Medication,Emergency,4.4,67143,65,0.24,Inpatient,16114.32
+2852,22/10/2029,18-30,Male,South,General Medicine,Surgery,Emergency,3.4,28082,49,0.35,Inpatient,9828.7
+442,18/03/2023,60+,Female,West,Cardiology,Therapy,Routine,2.6,21502,73,0.21,Inpatient,4515.42
+3502,03/08/2031,46-60,Female,West,Neurology,Surgery,Routine,7.1,60317,62,0.2,Inpatient,12063.4
+470,15/04/2023,60+,Male,East,Pediatrics,Observation,Emergency,4.4,53696,86,0.72,Inpatient,38661.12
+2673,26/04/2029,46-60,Female,East,Orthopedics,Medication,Routine,0.8,63587,94,0.22,Inpatient,13989.14
+735,05/01/2024,31-45,Male,South,Orthopedics,Therapy,Routine,0.2,28321,74,0.42,Inpatient,11894.82
+2695,18/05/2029,60+,Male,South,Cardiology,Surgery,Routine,5.6,48419,88,0.13,Inpatient,6294.47
+2494,29/10/2028,31-45,Male,West,Neurology,Medication,Routine,2.0,51570,67,0.41,Inpatient,21143.7
+2740,02/07/2029,18-30,Female,South,Cardiology,Therapy,Emergency,4.2,64872,83,0.14,Inpatient,9082.08
+3151,17/08/2030,46-60,Female,East,Neurology,Observation,Routine,2.9,1405,77,0.01,Inpatient,14.05
+3674,22/01/2032,18-30,Female,West,Neurology,Medication,Emergency,2.3,63459,100,0.05,Inpatient,3172.95
+4347,25/11/2033,46-60,Male,South,Orthopedics,Therapy,Routine,3.6,67041,83,0.25,Inpatient,16760.25
+3060,18/05/2030,60+,Male,East,Pediatrics,Observation,Routine,1.9,33462,70,0.32,Inpatient,10707.84
+4292,01/10/2033,18-30,Male,East,Orthopedics,Surgery,Routine,3.1,44785,79,0.27,Inpatient,12091.95
+2281,30/03/2028,31-45,Male,East,Cardiology,Therapy,Emergency,4.3,41039,71,0.53,Inpatient,21750.67
+3332,14/02/2031,46-60,Female,South,General Medicine,Therapy,Routine,3.9,91347,51,0.04,Inpatient,3653.88
+2757,19/07/2029,31-45,Female,East,Orthopedics,Observation,Emergency,2.6,23939,64,0.09,Inpatient,2154.51
+762,01/02/2024,31-45,Male,South,Pediatrics,Medication,Emergency,4.9,71340,95,0.32,Inpatient,22828.8
+2444,09/09/2028,46-60,Female,South,Pediatrics,Therapy,Routine,3.5,65643,67,0.34,Inpatient,22318.62
+536,20/06/2023,60+,Male,East,Orthopedics,Observation,Routine,4.1,76899,75,0.32,Inpatient,24607.68
+384,19/01/2023,60+,Male,East,General Medicine,Therapy,Emergency,0.4,56270,66,0.14,Inpatient,7877.8
+2023,16/07/2027,60+,Male,South,Pediatrics,Therapy,Routine,4.5,56556,67,0.19,Inpatient,10745.64
+1888,03/03/2027,18-30,Male,South,Orthopedics,Medication,Emergency,3.8,71868,72,0.08,Inpatient,5749.44
+1265,18/06/2025,18-30,Female,North,General Medicine,Observation,Emergency,3.7,59826,82,0.42,Inpatient,25126.92
+277,04/10/2022,46-60,Male,East,Neurology,Surgery,Routine,6.1,40965,81,0.3,Inpatient,12289.5
+1375,06/10/2025,18-30,Female,North,General Medicine,Surgery,Routine,6.3,94280,90,0.07,Inpatient,6599.6
+2905,14/12/2029,31-45,Male,West,Cardiology,Medication,Routine,0.2,74244,75,0.02,Inpatient,1484.88
+3820,16/06/2032,31-45,Female,West,General Medicine,Surgery,Emergency,1.4,46190,69,0.34,Inpatient,15704.6
+2274,23/03/2028,46-60,Female,East,Orthopedics,Therapy,Routine,1.8,23225,55,0.56,Inpatient,13006.0
+505,20/05/2023,46-60,Female,North,General Medicine,Medication,Routine,4.5,39572,100,0.1,Inpatient,3957.2
+4308,17/10/2033,46-60,Female,East,Cardiology,Therapy,Emergency,2.7,60763,58,0.24,Inpatient,14583.12
+1470,09/01/2026,46-60,Female,West,Pediatrics,Therapy,Emergency,3.3,57780,66,0.17,Inpatient,9822.6
+2297,15/04/2028,18-30,Male,West,Cardiology,Medication,Emergency,4.2,43886,79,0.31,Inpatient,13604.66
+222,10/08/2022,31-45,Female,North,General Medicine,Therapy,Routine,7.3,47871,64,0.3,Inpatient,14361.3
+969,26/08/2024,31-45,Female,West,Orthopedics,Observation,Routine,6.0,46668,81,0.33,Inpatient,15400.44
+4121,13/04/2033,31-45,Female,East,Pediatrics,Observation,Emergency,7.2,97867,57,0.29,Inpatient,28381.43
+3137,03/08/2030,46-60,Male,East,General Medicine,Surgery,Routine,4.1,34366,82,0.2,Inpatient,6873.2
+4405,22/01/2034,60+,Female,West,Neurology,Medication,Emergency,4.1,38650,80,0.39,Inpatient,15073.5
+1972,26/05/2027,46-60,Female,North,Neurology,Therapy,Routine,1.2,44243,87,0.45,Inpatient,19909.35
+4329,07/11/2033,18-30,Male,South,Pediatrics,Medication,Routine,1.0,63770,59,0.26,Inpatient,16580.2
+1847,21/01/2027,18-30,Male,East,General Medicine,Medication,Routine,3.4,51064,61,0.37,Inpatient,18893.68
+483,28/04/2023,31-45,Male,North,Orthopedics,Medication,Routine,10.2,63445,75,0.13,Inpatient,8247.85
+1217,01/05/2025,18-30,Female,South,Cardiology,Observation,Routine,5.0,80267,86,0.2,Inpatient,16053.4
+4454,12/03/2034,46-60,Female,West,Neurology,Therapy,Routine,1.9,63377,92,0.11,Inpatient,6971.47
+2458,23/09/2028,46-60,Female,South,Cardiology,Observation,Routine,3.2,67930,59,0.67,Inpatient,45513.1
+1792,27/11/2026,46-60,Female,West,Orthopedics,Observation,Routine,2.6,55248,88,0.02,Inpatient,1104.96
+393,28/01/2023,31-45,Female,East,General Medicine,Observation,Emergency,2.8,63712,71,0.37,Inpatient,23573.44
+4590,26/07/2034,46-60,Female,West,Pediatrics,Therapy,Routine,3.3,62070,86,0.48,Inpatient,29793.6
+2572,15/01/2029,60+,Female,East,Neurology,Medication,Routine,7.9,59055,77,0.25,Inpatient,14763.75
+3281,25/12/2030,31-45,Female,West,Cardiology,Therapy,Routine,3.0,58060,75,0.32,Inpatient,18579.2
+3812,08/06/2032,31-45,Female,South,Cardiology,Observation,Emergency,3.7,60696,80,0.27,Inpatient,16387.92
+2921,30/12/2029,31-45,Female,West,Orthopedics,Surgery,Emergency,4.0,46173,54,0.33,Inpatient,15237.09
+4013,26/12/2032,46-60,Male,East,Neurology,Observation,Routine,3.8,38439,95,0.25,Inpatient,9609.75
+4004,17/12/2032,18-30,Male,South,Cardiology,Therapy,Emergency,7.1,63649,81,0.61,Inpatient,38825.89
+709,10/12/2023,31-45,Male,East,General Medicine,Observation,Routine,2.0,71856,66,0.34,Inpatient,24431.04
+941,29/07/2024,31-45,Male,East,General Medicine,Medication,Routine,2.0,39575,76,0.51,Inpatient,20183.25
+1240,24/05/2025,18-30,Female,West,Neurology,Observation,Routine,4.9,56317,91,0.25,Inpatient,14079.25
+434,10/03/2023,18-30,Female,South,Cardiology,Surgery,Routine,6.1,40610,62,0.15,Inpatient,6091.5
+1380,11/10/2025,31-45,Male,East,Pediatrics,Medication,Emergency,2.1,65547,82,0.37,Inpatient,24252.39
+2992,11/03/2030,46-60,Female,North,Neurology,Surgery,Emergency,3.3,60887,67,0.16,Inpatient,9741.92
+1035,31/10/2024,18-30,Female,East,Pediatrics,Medication,Routine,2.6,37196,59,0.31,Inpatient,11530.76
+3982,25/11/2032,46-60,Male,West,Pediatrics,Observation,Emergency,4.3,82041,68,0.13,Inpatient,10665.33
+4781,02/02/2035,18-30,Female,North,Cardiology,Surgery,Emergency,5.6,49053,89,0.55,Inpatient,26979.15
+4821,14/03/2035,31-45,Female,West,Cardiology,Surgery,Routine,7.5,56268,82,0.37,Inpatient,20819.16
+4432,18/02/2034,31-45,Male,South,Neurology,Observation,Emergency,5.0,15237,84,0.17,Inpatient,2590.29
+3594,03/11/2031,31-45,Male,South,Orthopedics,Observation,Routine,4.1,55909,72,0.65,Inpatient,36340.85
+2849,19/10/2029,31-45,Female,South,Cardiology,Observation,Emergency,5.3,45654,70,0.46,Inpatient,21000.84
+2167,07/12/2027,46-60,Male,West,Orthopedics,Observation,Emergency,7.1,49523,57,0.24,Inpatient,11885.52
+3620,29/11/2031,18-30,Female,West,Pediatrics,Surgery,Routine,3.9,92832,60,0.2,Inpatient,18566.4
+417,21/02/2023,31-45,Male,East,General Medicine,Therapy,Emergency,3.1,66117,67,0.06,Inpatient,3967.02
+423,27/02/2023,18-30,Male,South,General Medicine,Observation,Emergency,5.3,31682,90,0.18,Inpatient,5702.76
+4667,11/10/2034,18-30,Male,South,Cardiology,Medication,Emergency,11.2,77786,70,0.38,Inpatient,29558.68
+164,13/06/2022,31-45,Female,South,General Medicine,Therapy,Routine,5.2,60049,87,0.32,Inpatient,19215.68
+3357,11/03/2031,46-60,Female,West,Cardiology,Therapy,Routine,0.8,35251,65,0.23,Inpatient,8107.73
+3455,17/06/2031,60+,Male,South,Pediatrics,Therapy,Emergency,7.3,75894,80,0.17,Inpatient,12901.98
+3468,30/06/2031,46-60,Female,East,Pediatrics,Medication,Routine,4.8,49952,72,0.33,Inpatient,16484.16
+1483,22/01/2026,31-45,Male,South,Orthopedics,Surgery,Emergency,4.4,60008,72,0.25,Inpatient,15002.0
+3692,09/02/2032,31-45,Male,East,General Medicine,Observation,Emergency,5.1,92120,92,0.56,Inpatient,51587.2
+96,06/04/2022,31-45,Female,West,Neurology,Observation,Routine,4.8,29131,65,0.32,Inpatient,9321.92
+4051,02/02/2033,60+,Male,West,Pediatrics,Therapy,Routine,4.8,65377,75,0.09,Inpatient,5883.93
+3723,11/03/2032,60+,Female,East,General Medicine,Surgery,Routine,2.9,36447,74,0.58,Inpatient,21139.26
+755,25/01/2024,18-30,Male,West,General Medicine,Surgery,Routine,4.3,54139,87,0.45,Inpatient,24362.55
+799,09/03/2024,46-60,Male,West,Orthopedics,Medication,Routine,7.8,51071,73,0.4,Inpatient,20428.4
+472,17/04/2023,60+,Male,North,Pediatrics,Therapy,Routine,0.9,47311,88,0.45,Inpatient,21289.95
+4668,12/10/2034,46-60,Male,South,Cardiology,Therapy,Emergency,6.4,54872,74,0.08,Inpatient,4389.76
+770,09/02/2024,46-60,Male,North,Cardiology,Surgery,Emergency,0.2,27757,70,0.42,Inpatient,11657.94
+223,11/08/2022,18-30,Female,East,Orthopedics,Therapy,Emergency,3.5,27641,84,0.23,Inpatient,6357.43
+1713,09/09/2026,46-60,Female,East,Cardiology,Observation,Emergency,3.4,62255,76,0.07,Inpatient,4357.85
+3486,18/07/2031,31-45,Male,East,General Medicine,Therapy,Routine,2.0,68592,84,0.31,Inpatient,21263.52
+949,06/08/2024,60+,Male,East,Pediatrics,Surgery,Routine,1.9,37345,83,0.04,Inpatient,1493.8
+2094,25/09/2027,31-45,Male,East,Cardiology,Surgery,Emergency,6.0,64739,77,0.2,Inpatient,12947.8
+3207,12/10/2030,60+,Male,South,Neurology,Observation,Routine,4.7,3577,68,0.24,Inpatient,858.48
+2676,29/04/2029,31-45,Female,West,Neurology,Medication,Emergency,4.6,47289,56,0.24,Inpatient,11349.36
+1742,08/10/2026,46-60,Female,North,Orthopedics,Medication,Emergency,6.0,46056,55,0.12,Inpatient,5526.72
+2967,14/02/2030,46-60,Male,East,General Medicine,Surgery,Emergency,0.1,48101,72,0.31,Inpatient,14911.31
+2693,16/05/2029,18-30,Female,East,Cardiology,Medication,Emergency,2.6,38677,68,0.08,Inpatient,3094.16
+1944,28/04/2027,46-60,Female,West,Pediatrics,Medication,Routine,3.6,47149,70,0.11,Inpatient,5186.39
+3041,29/04/2030,18-30,Male,East,Pediatrics,Observation,Emergency,5.9,65523,60,0.61,Inpatient,39969.03
+3768,25/04/2032,31-45,Female,East,Pediatrics,Medication,Emergency,0.4,45602,72,0.26,Inpatient,11856.52
+1747,13/10/2026,18-30,Male,East,Neurology,Medication,Routine,0.8,91418,63,0.23,Inpatient,21026.14
+3950,24/10/2032,18-30,Female,East,Neurology,Surgery,Emergency,1.6,9483,83,0.35,Inpatient,3319.05
+1001,27/09/2024,18-30,Female,South,Orthopedics,Medication,Emergency,3.3,46415,75,0.42,Inpatient,19494.3
+2823,23/09/2029,46-60,Female,West,Cardiology,Medication,Emergency,6.0,64098,57,0.33,Inpatient,21152.34
+2169,09/12/2027,46-60,Male,North,Cardiology,Therapy,Routine,1.5,36961,76,0.4,Inpatient,14784.4
+3236,10/11/2030,18-30,Male,East,General Medicine,Medication,Routine,1.8,57272,85,0.45,Inpatient,25772.4
+4253,23/08/2033,31-45,Female,South,Pediatrics,Medication,Routine,3.2,48806,58,0.06,Inpatient,2928.36
+867,16/05/2024,18-30,Female,West,Orthopedics,Observation,Routine,3.5,83013,59,0.23,Inpatient,19092.99
+2568,11/01/2029,31-45,Female,North,Orthopedics,Therapy,Routine,3.7,21458,66,0.05,Inpatient,1072.9
+1975,29/05/2027,31-45,Male,North,Pediatrics,Observation,Routine,3.0,70682,80,0.26,Inpatient,18377.32
+150,30/05/2022,31-45,Male,West,Cardiology,Therapy,Routine,8.4,39758,88,0.24,Inpatient,9541.92
+1407,07/11/2025,46-60,Male,North,General Medicine,Observation,Routine,6.5,62204,57,0.21,Inpatient,13062.84
+1657,15/07/2026,31-45,Female,West,Orthopedics,Medication,Emergency,2.8,45273,72,0.21,Inpatient,9507.33
+439,15/03/2023,46-60,Female,North,Neurology,Therapy,Routine,4.8,39069,75,0.15,Inpatient,5860.35
+299,26/10/2022,46-60,Male,South,Orthopedics,Therapy,Routine,5.2,14957,85,0.49,Inpatient,7328.93
+387,22/01/2023,31-45,Female,West,Cardiology,Medication,Routine,2.9,56199,77,0.42,Inpatient,23603.58
+813,23/03/2024,18-30,Female,West,Cardiology,Surgery,Emergency,4.7,45806,66,0.25,Inpatient,11451.5
+2347,04/06/2028,46-60,Male,South,General Medicine,Surgery,Routine,6.8,38459,78,0.31,Inpatient,11922.29
+186,05/07/2022,46-60,Male,West,General Medicine,Observation,Routine,7.4,31008,77,0.31,Inpatient,9612.48
+1312,04/08/2025,60+,Female,East,Orthopedics,Therapy,Emergency,2.7,93764,87,0.25,Inpatient,23441.0
+4098,21/03/2033,18-30,Male,West,Pediatrics,Therapy,Routine,2.7,105387,88,0.47,Inpatient,49531.89
+2204,13/01/2028,18-30,Male,South,Cardiology,Therapy,Emergency,3.0,54270,87,0.03,Inpatient,1628.1
+558,12/07/2023,18-30,Female,North,Cardiology,Surgery,Routine,7.6,113672,84,0.42,Inpatient,47742.24
+4076,27/02/2033,31-45,Female,North,Orthopedics,Medication,Emergency,6.6,73320,74,0.12,Inpatient,8798.4
+1482,21/01/2026,18-30,Female,South,Orthopedics,Medication,Emergency,2.3,71388,68,0.45,Inpatient,32124.6
+271,28/09/2022,46-60,Male,East,Cardiology,Therapy,Routine,6.5,77331,63,0.18,Inpatient,13919.58
+2206,15/01/2028,60+,Male,South,General Medicine,Surgery,Routine,1.6,79315,74,0.42,Inpatient,33312.3
+4852,14/04/2035,31-45,Male,West,Orthopedics,Therapy,Routine,1.7,50584,50,0.66,Inpatient,33385.44
+2735,27/06/2029,60+,Male,East,Orthopedics,Surgery,Routine,4.7,4812,45,0.46,Inpatient,2213.52
+601,24/08/2023,18-30,Female,West,Pediatrics,Observation,Emergency,1.7,45867,64,0.66,Inpatient,30272.22
+1571,20/04/2026,31-45,Female,East,Pediatrics,Surgery,Routine,5.2,63267,77,0.18,Inpatient,11388.06
+2789,20/08/2029,60+,Female,East,Orthopedics,Observation,Routine,2.0,50604,72,0.13,Inpatient,6578.52
+1361,22/09/2025,60+,Female,East,Neurology,Surgery,Routine,5.2,59579,84,0.08,Inpatient,4766.32
+2287,05/04/2028,60+,Male,North,Pediatrics,Therapy,Routine,5.7,30550,79,0.13,Inpatient,3971.5
+1437,07/12/2025,31-45,Female,West,Cardiology,Medication,Emergency,4.3,86775,66,0.13,Inpatient,11280.75
+4611,16/08/2034,31-45,Female,South,Pediatrics,Surgery,Routine,6.1,73380,76,0.17,Inpatient,12474.6
+3922,26/09/2032,31-45,Female,South,Cardiology,Therapy,Emergency,3.9,49203,83,0.17,Inpatient,8364.51
+425,01/03/2023,18-30,Male,West,Orthopedics,Surgery,Routine,5.7,47772,84,0.32,Inpatient,15287.04
+1992,15/06/2027,18-30,Male,South,Cardiology,Therapy,Emergency,5.4,22035,76,0.15,Inpatient,3305.25
+3665,13/01/2032,31-45,Male,East,Cardiology,Medication,Routine,0.2,37763,84,0.45,Inpatient,16993.35
+2814,14/09/2029,18-30,Female,North,Neurology,Surgery,Routine,8.5,54740,87,0.13,Inpatient,7116.2
+450,26/03/2023,18-30,Male,South,Cardiology,Observation,Routine,3.5,20124,71,0.25,Inpatient,5031.0
+3694,11/02/2032,18-30,Male,West,Pediatrics,Therapy,Routine,5.0,119307,82,0.18,Inpatient,21475.26
+2145,15/11/2027,31-45,Female,West,Pediatrics,Medication,Routine,5.0,55176,65,0.1,Inpatient,5517.6
+2118,19/10/2027,46-60,Male,East,Neurology,Surgery,Routine,4.7,86929,68,0.2,Inpatient,17385.8
+4587,23/07/2034,31-45,Male,North,Orthopedics,Observation,Routine,4.3,51189,76,0.32,Inpatient,16380.48
+2870,09/11/2029,31-45,Female,South,Neurology,Observation,Routine,5.1,33860,72,0.28,Inpatient,9480.8
+2217,26/01/2028,46-60,Female,North,General Medicine,Observation,Routine,3.4,25145,63,0.43,Inpatient,10812.35
+960,17/08/2024,46-60,Male,South,Pediatrics,Observation,Routine,4.0,6490,75,0.18,Inpatient,1168.2
+3646,25/12/2031,18-30,Female,North,Orthopedics,Observation,Routine,4.2,72183,65,0.31,Inpatient,22376.73
+110,20/04/2022,18-30,Male,North,General Medicine,Medication,Routine,1.9,72705,60,0.1,Inpatient,7270.5
+211,30/07/2022,31-45,Male,North,Cardiology,Medication,Routine,2.9,34930,71,0.16,Inpatient,5588.8
+1834,08/01/2027,46-60,Male,West,Orthopedics,Therapy,Routine,7.3,76378,94,0.41,Inpatient,31314.98
+3075,02/06/2030,31-45,Male,North,Neurology,Medication,Emergency,3.8,54135,76,0.35,Inpatient,18947.25
+3931,05/10/2032,60+,Female,North,Pediatrics,Surgery,Routine,0.7,64740,100,0.21,Inpatient,13595.4
+4339,17/11/2033,31-45,Female,North,General Medicine,Therapy,Emergency,4.5,59945,74,0.57,Inpatient,34168.65
+1746,12/10/2026,31-45,Male,North,General Medicine,Medication,Routine,1.9,67036,71,0.24,Inpatient,16088.64
+3766,23/04/2032,31-45,Female,East,Cardiology,Medication,Routine,3.4,81203,67,0.22,Inpatient,17864.66
+1409,09/11/2025,31-45,Male,North,Pediatrics,Therapy,Emergency,5.6,67309,74,0.69,Inpatient,46443.21
+4003,16/12/2032,46-60,Male,South,General Medicine,Therapy,Emergency,3.5,91441,61,0.38,Inpatient,34747.58
+1358,19/09/2025,31-45,Male,West,Neurology,Observation,Routine,4.0,70784,56,0.21,Inpatient,14864.64
+4420,06/02/2034,18-30,Male,South,Pediatrics,Therapy,Routine,7.2,74856,63,0.22,Inpatient,16468.32
+1401,01/11/2025,18-30,Male,South,Pediatrics,Medication,Routine,1.7,86340,64,0.03,Inpatient,2590.2
+4112,04/04/2033,31-45,Female,North,Orthopedics,Surgery,Routine,6.7,56808,76,0.2,Inpatient,11361.6
+2411,07/08/2028,46-60,Male,North,Pediatrics,Surgery,Routine,3.7,78165,83,0.3,Inpatient,23449.5
+389,24/01/2023,46-60,Female,East,Cardiology,Therapy,Routine,2.6,70661,60,0.48,Inpatient,33917.28
+1338,30/08/2025,46-60,Female,North,Pediatrics,Observation,Routine,4.0,73155,79,0.51,Inpatient,37309.05
+3293,06/01/2031,31-45,Female,East,Pediatrics,Observation,Routine,1.4,35690,62,0.25,Inpatient,8922.5
+853,02/05/2024,18-30,Female,North,Neurology,Surgery,Routine,3.8,51488,79,0.32,Inpatient,16476.16
+763,02/02/2024,18-30,Male,East,Pediatrics,Therapy,Routine,6.3,73905,70,0.42,Inpatient,31040.1
+1775,10/11/2026,46-60,Male,West,Pediatrics,Surgery,Routine,5.6,47622,81,0.53,Inpatient,25239.66
+3619,28/11/2031,46-60,Male,East,Neurology,Therapy,Routine,0.4,46502,68,0.35,Inpatient,16275.7
+655,17/10/2023,31-45,Male,North,Pediatrics,Therapy,Routine,0.9,39483,80,0.28,Inpatient,11055.24
+3587,27/10/2031,31-45,Male,North,Cardiology,Therapy,Emergency,4.9,36513,74,0.09,Inpatient,3286.17
+2338,26/05/2028,31-45,Male,South,Orthopedics,Surgery,Routine,4.3,67079,67,0.32,Inpatient,21465.28
+2164,04/12/2027,46-60,Male,East,Cardiology,Therapy,Routine,4.1,50230,61,0.05,Inpatient,2511.5
+1326,18/08/2025,31-45,Female,North,Orthopedics,Observation,Emergency,4.7,52410,87,0.31,Inpatient,16247.1
+1548,28/03/2026,31-45,Female,North,Pediatrics,Observation,Routine,2.2,33625,72,0.5,Inpatient,16812.5
+4839,01/04/2035,18-30,Female,South,Orthopedics,Therapy,Routine,3.4,94596,80,0.26,Inpatient,24594.96
+4637,11/09/2034,31-45,Male,West,Cardiology,Surgery,Routine,4.6,15198,71,0.19,Inpatient,2887.62
+4189,20/06/2033,46-60,Female,North,General Medicine,Medication,Routine,2.8,67606,78,0.28,Inpatient,18929.68
+1595,14/05/2026,46-60,Male,West,Orthopedics,Observation,Routine,2.5,62542,68,0.4,Inpatient,25016.8
+4947,18/07/2035,46-60,Male,East,Cardiology,Surgery,Emergency,4.5,68368,59,0.07,Inpatient,4785.76
+2323,11/05/2028,46-60,Female,South,Neurology,Medication,Routine,7.1,37911,58,0.1,Inpatient,3791.1
+3725,13/03/2032,31-45,Male,South,Neurology,Medication,Routine,4.6,69138,72,0.11,Inpatient,7605.18
+2014,07/07/2027,18-30,Female,North,Orthopedics,Therapy,Emergency,4.1,66293,64,0.06,Inpatient,3977.58
+2679,02/05/2029,18-30,Female,North,Neurology,Therapy,Routine,5.8,78235,61,0.1,Inpatient,7823.5
+1181,26/03/2025,60+,Female,South,Orthopedics,Therapy,Routine,6.3,50362,66,0.07,Inpatient,3525.34
+3975,18/11/2032,31-45,Male,East,Orthopedics,Observation,Routine,5.7,79865,53,0.07,Inpatient,5590.55
+1644,02/07/2026,46-60,Female,West,Cardiology,Surgery,Emergency,2.8,51459,60,0.04,Inpatient,2058.36
+3536,06/09/2031,18-30,Male,North,Cardiology,Observation,Routine,4.4,81585,58,0.32,Inpatient,26107.2
+2197,06/01/2028,31-45,Female,South,Cardiology,Therapy,Routine,4.1,54586,78,0.26,Inpatient,14192.36
+4021,03/01/2033,31-45,Male,East,Neurology,Medication,Routine,3.9,53545,96,0.21,Inpatient,11244.45
+2947,25/01/2030,31-45,Male,South,Pediatrics,Surgery,Emergency,4.2,65713,74,0.14,Inpatient,9199.82
+105,15/04/2022,60+,Female,West,General Medicine,Medication,Routine,3.9,47504,89,0.47,Inpatient,22326.88
+1649,07/07/2026,46-60,Male,South,Orthopedics,Observation,Routine,3.1,71863,100,0.48,Inpatient,34494.24
+4083,06/03/2033,46-60,Male,West,Pediatrics,Medication,Emergency,6.8,31622,85,0.2,Inpatient,6324.4
+3294,07/01/2031,31-45,Female,South,Pediatrics,Observation,Emergency,5.7,63450,87,0.12,Inpatient,7614.0
+196,15/07/2022,31-45,Male,South,Cardiology,Medication,Emergency,5.8,38495,66,0.15,Inpatient,5774.25
+4778,30/01/2035,31-45,Female,West,Pediatrics,Medication,Emergency,7.4,56678,76,0.08,Inpatient,4534.24
+2047,09/08/2027,18-30,Female,South,Cardiology,Medication,Routine,4.5,41573,82,0.13,Inpatient,5404.49
+887,05/06/2024,46-60,Female,North,Neurology,Observation,Routine,4.4,18582,74,0.38,Inpatient,7061.16
+4149,11/05/2033,46-60,Female,West,Orthopedics,Observation,Routine,3.1,76253,90,0.17,Inpatient,12963.01
+3761,18/04/2032,18-30,Male,North,General Medicine,Observation,Routine,3.7,54401,63,0.23,Inpatient,12512.23
+3748,05/04/2032,31-45,Female,West,General Medicine,Surgery,Emergency,1.5,92210,79,0.47,Inpatient,43338.7
+3901,05/09/2032,31-45,Female,West,Pediatrics,Therapy,Routine,3.5,27391,60,0.22,Inpatient,6026.02
+4091,14/03/2033,46-60,Male,East,Neurology,Therapy,Emergency,1.7,41696,66,0.69,Inpatient,28770.24
+240,28/08/2022,18-30,Female,North,Orthopedics,Medication,Routine,2.6,44383,58,0.15,Inpatient,6657.45
+4477,04/04/2034,31-45,Female,East,Orthopedics,Surgery,Routine,5.9,88103,70,0.34,Inpatient,29955.02
+511,26/05/2023,46-60,Male,North,Orthopedics,Surgery,Routine,5.4,95457,90,0.25,Inpatient,23864.25
+2809,09/09/2029,31-45,Male,East,General Medicine,Observation,Emergency,7.1,56467,83,0.52,Inpatient,29362.84
+2264,13/03/2028,31-45,Male,North,Orthopedics,Medication,Emergency,0.6,26500,62,0.25,Inpatient,6625.0
+3858,24/07/2032,31-45,Female,West,General Medicine,Surgery,Emergency,1.5,47801,70,0.29,Inpatient,13862.29
+3902,06/09/2032,31-45,Male,West,Neurology,Medication,Routine,2.7,51493,76,0.13,Inpatient,6694.09
+2069,31/08/2027,18-30,Male,North,Cardiology,Therapy,Emergency,3.6,81653,51,0.3,Inpatient,24495.9
+4425,11/02/2034,31-45,Female,South,Orthopedics,Therapy,Emergency,6.3,49079,89,0.16,Inpatient,7852.64
+1242,26/05/2025,46-60,Female,East,Orthopedics,Medication,Routine,3.3,33602,56,0.04,Inpatient,1344.08
+3623,02/12/2031,18-30,Female,South,Pediatrics,Observation,Routine,7.1,45472,46,0.13,Inpatient,5911.36
+4391,08/01/2034,18-30,Male,East,Neurology,Therapy,Routine,2.9,58035,72,0.05,Inpatient,2901.75
+2865,04/11/2029,31-45,Female,South,Orthopedics,Therapy,Routine,7.5,25006,75,0.07,Inpatient,1750.42
+3368,22/03/2031,31-45,Male,West,Neurology,Observation,Routine,5.7,18116,93,0.23,Inpatient,4166.68
+3565,05/10/2031,31-45,Male,West,Cardiology,Therapy,Emergency,1.9,52250,58,0.53,Inpatient,27692.5
+1226,10/05/2025,46-60,Female,South,Cardiology,Therapy,Emergency,6.7,64181,65,0.44,Inpatient,28239.64
+2379,06/07/2028,31-45,Female,South,Orthopedics,Surgery,Routine,5.9,57943,94,0.32,Inpatient,18541.76
+3800,27/05/2032,31-45,Male,East,Pediatrics,Surgery,Routine,2.6,65058,79,0.28,Inpatient,18216.24
+3701,18/02/2032,46-60,Female,West,Orthopedics,Surgery,Routine,4.2,52264,88,0.22,Inpatient,11498.08
+3270,14/12/2030,46-60,Female,West,Orthopedics,Observation,Routine,4.7,96239,60,0.08,Inpatient,7699.12
+631,23/09/2023,46-60,Female,North,General Medicine,Therapy,Routine,3.2,47009,77,0.32,Inpatient,15042.88
+469,14/04/2023,18-30,Male,West,Neurology,Observation,Routine,3.9,90297,86,0.41,Inpatient,37021.77
+168,17/06/2022,18-30,Female,East,General Medicine,Surgery,Emergency,2.9,67138,81,0.12,Inpatient,8056.56
+1347,08/09/2025,31-45,Male,East,Cardiology,Therapy,Emergency,4.8,75108,88,0.17,Inpatient,12768.36
+296,23/10/2022,31-45,Female,North,Cardiology,Surgery,Emergency,6.1,39256,84,0.47,Inpatient,18450.32
+3813,09/06/2032,18-30,Male,South,Pediatrics,Medication,Routine,3.8,50369,84,0.36,Inpatient,18132.84
+3525,26/08/2031,18-30,Female,East,Orthopedics,Medication,Routine,0.0,34544,91,0.54,Outpatient,18653.76
+2800,31/08/2029,18-30,Male,West,Cardiology,Surgery,Routine,6.3,56086,83,0.04,Inpatient,2243.44
+3112,09/07/2030,18-30,Male,North,Pediatrics,Therapy,Emergency,0.5,33274,78,0.08,Inpatient,2661.92
+339,05/12/2022,31-45,Male,East,Cardiology,Therapy,Routine,4.9,25797,88,0.22,Inpatient,5675.34
+1441,11/12/2025,60+,Male,South,Orthopedics,Medication,Routine,2.5,39963,60,0.12,Inpatient,4795.56
+2432,28/08/2028,46-60,Female,East,General Medicine,Observation,Emergency,1.8,62334,68,0.21,Inpatient,13090.14
+344,10/12/2022,31-45,Male,East,General Medicine,Observation,Routine,2.9,60947,57,0.37,Inpatient,22550.39
+4573,09/07/2034,18-30,Male,West,Neurology,Medication,Routine,5.7,28158,89,0.22,Inpatient,6194.76
+1345,06/09/2025,46-60,Male,West,Cardiology,Surgery,Routine,3.8,30927,71,0.24,Inpatient,7422.48
+784,23/02/2024,31-45,Female,East,Cardiology,Therapy,Routine,4.7,80904,95,0.22,Inpatient,17798.88
+1953,07/05/2027,31-45,Male,South,General Medicine,Medication,Routine,1.2,28243,85,0.31,Inpatient,8755.33
+4661,05/10/2034,31-45,Female,West,Neurology,Medication,Routine,3.3,68171,71,0.2,Inpatient,13634.2
+679,10/11/2023,60+,Male,South,General Medicine,Medication,Emergency,5.5,62928,82,0.29,Inpatient,18249.12
+2472,07/10/2028,60+,Male,South,Neurology,Medication,Routine,4.1,55204,79,0.34,Inpatient,18769.36
+2642,26/03/2029,18-30,Male,West,Orthopedics,Therapy,Routine,2.0,54582,80,0.3,Inpatient,16374.6
+220,08/08/2022,46-60,Female,South,Pediatrics,Medication,Routine,1.8,54872,79,0.41,Inpatient,22497.52
+1718,14/09/2026,46-60,Female,East,Pediatrics,Observation,Emergency,5.3,28389,69,0.19,Inpatient,5393.91
+1841,15/01/2027,31-45,Male,North,Pediatrics,Therapy,Routine,5.9,46950,65,0.15,Inpatient,7042.5
+4397,14/01/2034,31-45,Female,East,Pediatrics,Observation,Emergency,4.1,69592,58,0.17,Inpatient,11830.64
+4241,11/08/2033,46-60,Male,North,Cardiology,Surgery,Routine,5.1,68510,70,0.12,Inpatient,8221.2
+3015,03/04/2030,46-60,Male,West,Orthopedics,Medication,Routine,6.6,50804,83,0.07,Inpatient,3556.28
+4737,20/12/2034,31-45,Male,North,Neurology,Medication,Routine,6.0,64569,84,0.66,Inpatient,42615.54
+1404,04/11/2025,46-60,Female,North,Orthopedics,Therapy,Routine,2.2,73513,62,0.24,Inpatient,17643.12
+4926,27/06/2035,31-45,Male,South,Pediatrics,Surgery,Routine,2.7,62577,80,0.19,Inpatient,11889.63
+1776,11/11/2026,31-45,Female,North,Orthopedics,Surgery,Routine,0.7,58248,63,0.24,Inpatient,13979.52
+4067,18/02/2033,18-30,Male,East,Pediatrics,Surgery,Emergency,2.4,68921,62,0.56,Inpatient,38595.76
+2286,04/04/2028,31-45,Female,West,General Medicine,Medication,Routine,4.7,92636,80,0.29,Inpatient,26864.44
+4479,06/04/2034,31-45,Male,South,Orthopedics,Medication,Emergency,2.3,70313,81,0.34,Inpatient,23906.42
+263,20/09/2022,18-30,Female,North,Pediatrics,Surgery,Emergency,4.4,106303,89,0.3,Inpatient,31890.9
+403,07/02/2023,31-45,Female,North,Orthopedics,Therapy,Routine,0.4,88257,85,0.39,Inpatient,34420.23
+3081,08/06/2030,46-60,Female,West,Pediatrics,Medication,Routine,5.5,41720,69,0.26,Inpatient,10847.2
+4655,29/09/2034,31-45,Female,West,Pediatrics,Surgery,Routine,4.3,52976,72,0.11,Inpatient,5827.36
+4462,20/03/2034,31-45,Male,East,Orthopedics,Medication,Routine,2.2,61024,84,0.36,Inpatient,21968.64
+2027,20/07/2027,46-60,Male,South,Pediatrics,Medication,Routine,5.0,67899,59,0.32,Inpatient,21727.68
+3188,23/09/2030,31-45,Male,West,Orthopedics,Therapy,Routine,3.5,77484,66,0.18,Inpatient,13947.12
+1122,26/01/2025,60+,Male,West,General Medicine,Therapy,Routine,3.5,63277,67,0.3,Inpatient,18983.1
+1949,03/05/2027,31-45,Male,West,Pediatrics,Therapy,Routine,5.1,72005,74,0.11,Inpatient,7920.55
+4898,30/05/2035,31-45,Male,South,Neurology,Surgery,Routine,6.3,68817,75,0.15,Inpatient,10322.55
+1788,23/11/2026,46-60,Male,East,General Medicine,Observation,Routine,2.0,35233,76,0.01,Inpatient,352.33
+82,23/03/2022,46-60,Female,North,Pediatrics,Medication,Emergency,4.1,57948,72,0.42,Inpatient,24338.16
+3076,03/06/2030,60+,Male,South,Neurology,Medication,Routine,3.1,44632,56,0.27,Inpatient,12050.64
+4819,12/03/2035,60+,Male,West,Neurology,Surgery,Routine,2.4,47426,76,0.34,Inpatient,16124.84
+4237,07/08/2033,18-30,Female,North,Cardiology,Surgery,Routine,3.7,60241,54,0.21,Inpatient,12650.61
+1723,19/09/2026,31-45,Female,North,Orthopedics,Observation,Routine,2.0,40085,81,0.2,Inpatient,8017.0
+3687,04/02/2032,60+,Female,West,General Medicine,Medication,Emergency,1.0,52723,85,0.31,Inpatient,16344.13
+2017,10/07/2027,31-45,Female,South,Pediatrics,Observation,Routine,7.1,67321,85,0.58,Inpatient,39046.18
+3510,11/08/2031,18-30,Female,South,Orthopedics,Medication,Emergency,5.3,96940,85,0.24,Inpatient,23265.6
+437,13/03/2023,18-30,Female,North,Orthopedics,Observation,Emergency,2.1,48340,84,0.16,Inpatient,7734.4
+3106,03/07/2030,31-45,Male,South,General Medicine,Therapy,Routine,0.3,54371,95,0.25,Inpatient,13592.75
+4381,29/12/2033,18-30,Male,North,Pediatrics,Therapy,Routine,2.0,61564,71,0.14,Inpatient,8618.96
+2104,05/10/2027,46-60,Female,East,Pediatrics,Medication,Routine,4.8,55723,66,0.42,Inpatient,23403.66
+349,15/12/2022,31-45,Female,West,General Medicine,Medication,Emergency,3.5,73278,84,0.54,Inpatient,39570.12
+3949,23/10/2032,18-30,Female,South,Orthopedics,Therapy,Emergency,5.9,42063,69,0.44,Inpatient,18507.72
+1396,27/10/2025,46-60,Male,West,Orthopedics,Observation,Routine,2.4,50806,73,0.05,Inpatient,2540.3
+4345,23/11/2033,31-45,Male,North,General Medicine,Surgery,Emergency,8.9,45871,76,0.41,Inpatient,18807.11
+2484,19/10/2028,18-30,Female,South,Orthopedics,Observation,Routine,4.5,58038,87,0.22,Inpatient,12768.36
+741,11/01/2024,31-45,Male,West,Neurology,Medication,Routine,5.4,55575,87,0.23,Inpatient,12782.25
+2171,11/12/2027,46-60,Female,East,Pediatrics,Observation,Routine,2.6,81979,79,0.22,Inpatient,18035.38
+3786,13/05/2032,18-30,Female,North,Orthopedics,Surgery,Routine,2.1,55574,63,0.53,Inpatient,29454.22
+4642,16/09/2034,31-45,Female,North,General Medicine,Therapy,Routine,6.9,58907,67,0.13,Inpatient,7657.91
+4330,08/11/2033,46-60,Female,North,General Medicine,Observation,Routine,1.8,67758,74,0.09,Inpatient,6098.22
+1365,26/09/2025,46-60,Female,East,Orthopedics,Surgery,Routine,2.4,64889,81,0.17,Inpatient,11031.13
+2383,10/07/2028,60+,Female,West,Orthopedics,Medication,Routine,1.3,62220,86,0.42,Inpatient,26132.4
+1942,26/04/2027,31-45,Female,West,Orthopedics,Medication,Routine,3.5,52009,69,0.3,Inpatient,15602.7
+591,14/08/2023,18-30,Male,East,General Medicine,Observation,Routine,0.9,59461,64,0.19,Inpatient,11297.59
+538,22/06/2023,18-30,Male,North,General Medicine,Therapy,Emergency,1.8,41008,54,0.31,Inpatient,12712.48
+2623,07/03/2029,31-45,Male,West,General Medicine,Therapy,Routine,6.4,65328,90,0.47,Inpatient,30704.16
+2954,01/02/2030,31-45,Male,West,General Medicine,Medication,Routine,4.5,47028,72,0.45,Inpatient,21162.6
+4690,03/11/2034,60+,Male,West,Pediatrics,Surgery,Routine,6.9,77717,62,0.26,Inpatient,20206.42
+2780,11/08/2029,18-30,Female,West,Pediatrics,Observation,Emergency,2.8,59507,66,0.09,Inpatient,5355.63
+2231,09/02/2028,46-60,Female,West,Neurology,Observation,Routine,2.7,60699,80,0.46,Inpatient,27921.54
+3426,19/05/2031,46-60,Female,West,General Medicine,Surgery,Emergency,4.5,38045,100,0.15,Inpatient,5706.75
+3798,25/05/2032,18-30,Female,East,Neurology,Surgery,Routine,0.7,52367,76,0.05,Inpatient,2618.35
+4664,08/10/2034,46-60,Male,West,Orthopedics,Medication,Routine,6.1,78645,66,0.27,Inpatient,21234.15
+526,10/06/2023,31-45,Female,East,Pediatrics,Therapy,Routine,2.8,17764,71,0.27,Inpatient,4796.28
+501,16/05/2023,46-60,Female,North,Pediatrics,Surgery,Routine,3.4,24765,50,0.2,Inpatient,4953.0
+302,29/10/2022,31-45,Male,South,Pediatrics,Observation,Routine,5.3,56889,60,0.06,Inpatient,3413.34
+3868,03/08/2032,46-60,Female,South,Orthopedics,Medication,Routine,4.1,93503,65,0.2,Inpatient,18700.6
+584,07/08/2023,31-45,Female,North,Pediatrics,Observation,Emergency,6.0,75510,64,0.2,Inpatient,15102.0
+359,25/12/2022,60+,Female,East,Pediatrics,Medication,Routine,5.4,31951,82,0.37,Inpatient,11821.87
+645,07/10/2023,18-30,Female,East,Orthopedics,Observation,Routine,1.6,60905,83,0.12,Inpatient,7308.6
+3229,03/11/2030,18-30,Female,North,Pediatrics,Medication,Emergency,5.8,36470,85,0.26,Inpatient,9482.2
+4888,20/05/2035,46-60,Male,North,Neurology,Therapy,Routine,0.1,53758,66,0.11,Inpatient,5913.38
+2508,12/11/2028,31-45,Female,West,Pediatrics,Therapy,Emergency,4.6,51351,95,0.26,Inpatient,13351.26
+3144,10/08/2030,31-45,Male,North,Neurology,Therapy,Routine,7.7,90799,60,0.29,Inpatient,26331.71
+234,22/08/2022,31-45,Female,West,Orthopedics,Therapy,Routine,2.6,17792,73,0.34,Inpatient,6049.28
+1006,02/10/2024,46-60,Male,North,Cardiology,Observation,Routine,0.9,14801,84,0.29,Inpatient,4292.29
+274,01/10/2022,60+,Female,South,General Medicine,Medication,Emergency,4.5,6525,95,0.06,Inpatient,391.5
+4683,27/10/2034,60+,Female,South,Orthopedics,Observation,Routine,1.4,86529,81,0.36,Inpatient,31150.44
+1378,09/10/2025,31-45,Male,West,Cardiology,Therapy,Routine,5.7,47596,67,0.76,Inpatient,36172.96
+3432,25/05/2031,60+,Female,South,Neurology,Surgery,Routine,3.1,36129,88,0.17,Inpatient,6141.93
+2688,11/05/2029,31-45,Male,South,Cardiology,Medication,Routine,0.1,61906,67,0.22,Inpatient,13619.32
+2853,23/10/2029,18-30,Female,East,Neurology,Surgery,Routine,4.6,55214,71,0.36,Inpatient,19877.04
+3260,04/12/2030,60+,Male,North,Cardiology,Therapy,Emergency,3.3,25928,69,0.51,Inpatient,13223.28
+4621,26/08/2034,60+,Female,West,Orthopedics,Observation,Routine,5.7,40620,54,0.37,Inpatient,15029.4
+4471,29/03/2034,60+,Female,South,Pediatrics,Observation,Routine,3.9,50783,66,0.41,Inpatient,20821.03
+4746,29/12/2034,18-30,Female,South,Pediatrics,Observation,Routine,5.6,70805,82,0.11,Inpatient,7788.55
+261,18/09/2022,46-60,Male,West,Pediatrics,Medication,Routine,9.0,65513,76,0.04,Inpatient,2620.52
+4014,27/12/2032,18-30,Male,South,Pediatrics,Surgery,Routine,4.3,61615,74,0.4,Inpatient,24646.0
+4480,07/04/2034,31-45,Female,East,Orthopedics,Surgery,Emergency,0.9,45441,70,0.44,Inpatient,19994.04
+688,19/11/2023,31-45,Female,West,Cardiology,Observation,Emergency,3.3,62055,88,0.24,Inpatient,14893.2
+431,07/03/2023,18-30,Male,North,Neurology,Therapy,Routine,0.8,34232,59,0.05,Inpatient,1711.6
+2070,01/09/2027,31-45,Male,South,General Medicine,Medication,Routine,5.0,67524,61,0.08,Inpatient,5401.92
+3799,26/05/2032,18-30,Female,West,Orthopedics,Surgery,Emergency,2.6,42706,62,0.21,Inpatient,8968.26
+3305,18/01/2031,18-30,Female,South,Neurology,Therapy,Routine,6.9,71843,48,0.39,Inpatient,28018.77
+4233,03/08/2033,31-45,Female,South,Orthopedics,Observation,Emergency,6.5,44705,72,0.19,Inpatient,8493.95
+1227,11/05/2025,31-45,Female,North,Neurology,Observation,Routine,2.7,46357,64,0.23,Inpatient,10662.11
+295,22/10/2022,18-30,Female,West,Neurology,Therapy,Emergency,2.0,45109,79,0.29,Inpatient,13081.61
+3345,27/02/2031,31-45,Male,West,Pediatrics,Observation,Routine,4.3,55806,85,0.09,Inpatient,5022.54
+1601,20/05/2026,18-30,Female,East,General Medicine,Medication,Emergency,7.8,50628,76,0.4,Inpatient,20251.2
+354,20/12/2022,18-30,Male,North,General Medicine,Therapy,Emergency,6.6,26877,61,0.24,Inpatient,6450.48
+4660,04/10/2034,46-60,Male,South,Orthopedics,Therapy,Routine,5.1,77404,72,0.4,Inpatient,30961.6
+232,20/08/2022,31-45,Female,North,Neurology,Medication,Emergency,2.3,70841,69,0.37,Inpatient,26211.17
+3249,23/11/2030,60+,Female,North,Orthopedics,Therapy,Routine,3.7,52641,72,0.22,Inpatient,11581.02
+1474,13/01/2026,31-45,Male,South,Pediatrics,Medication,Routine,2.7,56745,90,0.18,Inpatient,10214.1
+3000,19/03/2030,60+,Male,West,General Medicine,Medication,Routine,2.8,40276,53,0.23,Inpatient,9263.48
+4753,05/01/2035,46-60,Male,North,Cardiology,Medication,Routine,6.1,66715,81,0.46,Inpatient,30688.9
+2114,15/10/2027,60+,Female,South,Orthopedics,Therapy,Emergency,5.7,11160,68,0.26,Inpatient,2901.6
+4613,18/08/2034,31-45,Male,East,Orthopedics,Medication,Emergency,2.2,47438,64,0.3,Inpatient,14231.4
+245,02/09/2022,18-30,Male,North,Pediatrics,Observation,Routine,5.6,35641,80,0.16,Inpatient,5702.56
+311,07/11/2022,31-45,Male,North,Orthopedics,Medication,Routine,7.1,33930,93,0.09,Inpatient,3053.7
+2759,21/07/2029,46-60,Male,North,Orthopedics,Surgery,Emergency,2.7,80063,70,0.16,Inpatient,12810.08
+4006,19/12/2032,31-45,Male,South,Neurology,Therapy,Routine,5.0,33470,84,0.41,Inpatient,13722.7
+4980,20/08/2035,18-30,Male,East,Orthopedics,Surgery,Routine,5.4,79478,82,0.1,Inpatient,7947.8
+2272,21/03/2028,31-45,Female,West,Orthopedics,Observation,Routine,4.6,66209,84,0.28,Inpatient,18538.52
+3650,29/12/2031,60+,Female,South,Cardiology,Surgery,Emergency,4.7,76977,54,0.09,Inpatient,6927.93
+2692,15/05/2029,31-45,Male,North,Pediatrics,Medication,Routine,4.7,37942,59,0.09,Inpatient,3414.78
+314,10/11/2022,60+,Female,North,Orthopedics,Surgery,Routine,4.4,37767,88,0.09,Inpatient,3399.03
+343,09/12/2022,18-30,Female,North,Neurology,Therapy,Routine,7.5,40723,62,0.2,Inpatient,8144.6
+3871,06/08/2032,31-45,Male,North,Neurology,Medication,Emergency,4.1,52385,65,0.31,Inpatient,16239.35
+2130,31/10/2027,31-45,Female,East,Neurology,Surgery,Routine,3.8,59786,81,0.25,Inpatient,14946.5
+823,02/04/2024,31-45,Male,South,Cardiology,Medication,Routine,5.0,35074,60,0.11,Inpatient,3858.14
+654,16/10/2023,46-60,Female,East,Cardiology,Medication,Emergency,4.5,28166,95,0.06,Inpatient,1689.96
+2934,12/01/2030,31-45,Male,North,Orthopedics,Therapy,Emergency,1.6,56391,80,0.1,Inpatient,5639.1
+3401,24/04/2031,18-30,Female,East,Pediatrics,Medication,Routine,3.9,53355,68,0.33,Inpatient,17607.15
+85,26/03/2022,31-45,Female,South,General Medicine,Medication,Routine,1.6,66273,72,0.09,Inpatient,5964.57
+2928,06/01/2030,60+,Male,North,Cardiology,Surgery,Routine,5.4,103787,80,0.55,Inpatient,57082.85
+1591,10/05/2026,46-60,Female,West,Cardiology,Medication,Emergency,4.6,27643,89,0.17,Inpatient,4699.31
+308,04/11/2022,31-45,Female,West,Pediatrics,Observation,Emergency,6.4,31767,79,0.34,Inpatient,10800.78
+4713,26/11/2034,31-45,Female,South,General Medicine,Medication,Routine,5.2,28978,85,0.1,Inpatient,2897.8
+769,08/02/2024,31-45,Female,East,Neurology,Observation,Routine,2.2,72308,73,0.14,Inpatient,10123.12
+493,08/05/2023,31-45,Male,North,Orthopedics,Therapy,Emergency,3.2,41508,72,0.34,Inpatient,14112.72
+4260,30/08/2033,31-45,Female,West,General Medicine,Therapy,Routine,4.4,30483,72,0.29,Inpatient,8840.07
+2584,27/01/2029,31-45,Female,West,General Medicine,Observation,Routine,2.6,61108,78,0.49,Inpatient,29942.92
+484,29/04/2023,46-60,Male,West,Neurology,Medication,Routine,0.9,53677,63,0.42,Inpatient,22544.34
+498,13/05/2023,18-30,Female,South,Orthopedics,Observation,Emergency,5.5,83640,51,0.3,Inpatient,25092.0
+3630,09/12/2031,46-60,Female,West,General Medicine,Therapy,Routine,2.1,52103,80,0.46,Inpatient,23967.38
+4018,31/12/2032,60+,Female,East,Orthopedics,Medication,Emergency,3.5,32591,100,0.38,Inpatient,12384.58
+4213,14/07/2033,31-45,Female,South,Neurology,Surgery,Emergency,5.2,57833,75,0.38,Inpatient,21976.54
+1897,12/03/2027,46-60,Female,South,Cardiology,Surgery,Emergency,6.3,14364,73,0.48,Inpatient,6894.72
+2103,04/10/2027,18-30,Male,North,Cardiology,Observation,Routine,3.1,53794,78,0.33,Inpatient,17752.02
+3179,14/09/2030,46-60,Male,North,Neurology,Observation,Routine,3.2,44460,98,0.28,Inpatient,12448.8
+1626,14/06/2026,46-60,Male,South,Orthopedics,Observation,Emergency,3.7,63035,80,0.35,Inpatient,22062.25
+4564,30/06/2034,18-30,Male,North,Cardiology,Surgery,Routine,4.0,29892,64,0.05,Inpatient,1494.6
+556,10/07/2023,31-45,Male,South,Pediatrics,Therapy,Emergency,6.2,76123,79,0.59,Inpatient,44912.57
+214,02/08/2022,18-30,Male,East,Neurology,Surgery,Routine,1.6,93945,67,0.24,Inpatient,22546.8
+2387,14/07/2028,31-45,Male,East,Pediatrics,Medication,Routine,3.4,44972,76,0.45,Inpatient,20237.4
+2322,10/05/2028,46-60,Female,East,Pediatrics,Therapy,Emergency,0.2,55308,84,0.09,Inpatient,4977.72
+3746,03/04/2032,18-30,Female,West,Cardiology,Observation,Emergency,4.7,56956,100,0.22,Inpatient,12530.32
+3605,14/11/2031,18-30,Female,East,Pediatrics,Medication,Routine,3.6,51550,83,0.1,Inpatient,5155.0
+1793,28/11/2026,31-45,Female,South,Cardiology,Medication,Routine,4.6,66600,56,0.11,Inpatient,7326.0
+3199,04/10/2030,18-30,Male,West,Cardiology,Therapy,Emergency,6.7,70436,57,0.1,Inpatient,7043.6
+1610,29/05/2026,31-45,Male,North,Cardiology,Medication,Routine,4.7,46958,74,0.18,Inpatient,8452.44
+2312,30/04/2028,60+,Male,West,Neurology,Surgery,Emergency,6.4,44735,73,0.62,Inpatient,27735.7
+4907,08/06/2035,60+,Female,West,General Medicine,Therapy,Routine,5.5,37870,82,0.16,Inpatient,6059.2
+4547,13/06/2034,18-30,Male,East,Cardiology,Therapy,Routine,6.1,13813,68,0.19,Inpatient,2624.47
+1246,30/05/2025,46-60,Male,East,Orthopedics,Therapy,Routine,1.1,36579,74,0.34,Inpatient,12436.86
+247,04/09/2022,31-45,Female,East,General Medicine,Medication,Emergency,4.5,49982,88,0.32,Inpatient,15994.24
+542,26/06/2023,46-60,Female,South,Orthopedics,Therapy,Routine,5.0,45272,58,0.3,Inpatient,13581.6
+1950,04/05/2027,31-45,Male,East,Cardiology,Observation,Emergency,2.7,45578,79,0.08,Inpatient,3646.24
+940,28/07/2024,31-45,Female,North,Pediatrics,Observation,Routine,5.3,47947,78,0.23,Inpatient,11027.81
+3654,02/01/2032,18-30,Female,East,General Medicine,Surgery,Emergency,3.4,90202,72,0.02,Inpatient,1804.04
+4104,27/03/2033,18-30,Male,East,Orthopedics,Surgery,Routine,2.5,48679,63,0.38,Inpatient,18498.02
+4636,10/09/2034,60+,Female,South,Orthopedics,Surgery,Emergency,1.6,59528,46,0.64,Inpatient,38097.92
+2477,12/10/2028,18-30,Male,West,Orthopedics,Surgery,Routine,7.9,65955,55,0.48,Inpatient,31658.4
+2763,25/07/2029,46-60,Female,South,General Medicine,Observation,Emergency,3.4,42499,93,0.09,Inpatient,3824.91
+1564,13/04/2026,31-45,Female,East,Orthopedics,Surgery,Routine,4.1,71917,85,0.3,Inpatient,21575.1
+2311,29/04/2028,31-45,Male,North,General Medicine,Observation,Routine,2.9,65796,94,0.24,Inpatient,15791.04
+4863,25/04/2035,18-30,Male,North,Orthopedics,Surgery,Emergency,3.2,26881,63,0.46,Inpatient,12365.26
+2936,14/01/2030,18-30,Female,West,Neurology,Observation,Routine,3.3,33359,72,0.09,Inpatient,3002.31
+3562,02/10/2031,46-60,Male,West,Neurology,Observation,Emergency,4.1,38781,93,0.54,Inpatient,20941.74
+4552,18/06/2034,18-30,Male,South,Pediatrics,Therapy,Routine,5.2,60588,79,0.23,Inpatient,13935.24
+1745,11/10/2026,31-45,Female,South,Pediatrics,Medication,Emergency,2.8,53295,72,0.61,Inpatient,32509.95
+3403,26/04/2031,60+,Male,East,Pediatrics,Observation,Routine,5.3,13497,100,0.48,Inpatient,6478.56
+2331,19/05/2028,31-45,Female,South,General Medicine,Observation,Routine,3.3,25966,60,0.26,Inpatient,6751.16
+1695,22/08/2026,31-45,Male,West,General Medicine,Medication,Routine,4.3,77106,76,0.09,Inpatient,6939.54
+2106,07/10/2027,31-45,Male,North,Cardiology,Therapy,Routine,2.8,60784,87,0.19,Inpatient,11548.96
+1015,11/10/2024,46-60,Male,North,Neurology,Therapy,Routine,1.6,66510,84,0.38,Inpatient,25273.8
+3849,15/07/2032,46-60,Female,South,Orthopedics,Surgery,Routine,7.2,70831,82,0.1,Inpatient,7083.1
+3176,11/09/2030,18-30,Male,West,Neurology,Medication,Routine,6.0,76080,72,0.17,Inpatient,12933.6
+4163,25/05/2033,31-45,Female,South,Orthopedics,Surgery,Routine,5.2,51809,54,0.22,Inpatient,11397.98
+454,30/03/2023,60+,Female,East,Neurology,Observation,Routine,4.2,40944,65,0.09,Inpatient,3684.96
+4037,19/01/2033,60+,Male,North,Pediatrics,Medication,Routine,1.4,43667,80,0.31,Inpatient,13536.77
+123,03/05/2022,31-45,Female,East,Orthopedics,Therapy,Emergency,5.5,47852,58,0.33,Inpatient,15791.16
+2746,08/07/2029,46-60,Female,South,Cardiology,Surgery,Emergency,3.8,40060,69,0.25,Inpatient,10015.0
+259,16/09/2022,31-45,Female,East,Neurology,Therapy,Emergency,6.1,46776,95,0.04,Inpatient,1871.04
+2091,22/09/2027,46-60,Male,South,General Medicine,Therapy,Routine,4.2,69525,66,0.4,Inpatient,27810.0
+153,02/06/2022,18-30,Male,East,Cardiology,Medication,Routine,3.3,64622,73,0.08,Inpatient,5169.76
+2448,13/09/2028,18-30,Male,South,Pediatrics,Surgery,Routine,3.7,85082,73,0.1,Inpatient,8508.2
+1522,02/03/2026,60+,Female,South,Pediatrics,Therapy,Routine,6.6,66742,95,0.26,Inpatient,17352.92
+2447,12/09/2028,31-45,Female,North,Neurology,Therapy,Emergency,5.5,37924,90,0.45,Inpatient,17065.8
+463,08/04/2023,46-60,Female,West,Cardiology,Observation,Emergency,5.3,63245,77,0.51,Inpatient,32254.95
+4810,03/03/2035,60+,Male,West,General Medicine,Medication,Routine,1.1,44333,94,0.18,Inpatient,7979.94
+503,18/05/2023,31-45,Female,North,Cardiology,Medication,Routine,1.2,50533,74,0.3,Inpatient,15159.9
+1439,09/12/2025,18-30,Male,South,Orthopedics,Therapy,Emergency,0.8,43437,62,0.15,Inpatient,6515.55
+112,22/04/2022,18-30,Female,North,Neurology,Surgery,Routine,6.0,75271,59,0.22,Inpatient,16559.62
+2647,31/03/2029,60+,Male,West,Neurology,Medication,Routine,3.5,48092,66,0.44,Inpatient,21160.48
+2345,02/06/2028,60+,Female,West,Neurology,Observation,Routine,5.1,63839,81,0.06,Inpatient,3830.34
+3599,08/11/2031,31-45,Male,West,General Medicine,Therapy,Routine,4.8,41824,86,0.27,Inpatient,11292.48
+286,13/10/2022,18-30,Female,East,Cardiology,Observation,Routine,7.6,33074,56,0.49,Inpatient,16206.26
+4400,17/01/2034,18-30,Male,East,General Medicine,Surgery,Routine,4.6,47347,100,0.17,Inpatient,8048.99
+4105,28/03/2033,31-45,Male,South,Pediatrics,Observation,Routine,3.9,60113,48,0.55,Inpatient,33062.15
+4600,05/08/2034,31-45,Male,North,Neurology,Therapy,Routine,2.6,58484,55,0.16,Inpatient,9357.44
+3807,03/06/2032,31-45,Male,North,General Medicine,Surgery,Routine,3.1,56099,91,0.5,Inpatient,28049.5
+1156,01/03/2025,46-60,Male,South,Orthopedics,Therapy,Routine,1.8,77051,82,0.02,Inpatient,1541.02
+4499,26/04/2034,31-45,Female,East,General Medicine,Medication,Emergency,5.1,67979,71,0.22,Inpatient,14955.38
+4110,02/04/2033,31-45,Female,North,Cardiology,Medication,Emergency,2.5,67703,54,0.07,Inpatient,4739.21
+1818,23/12/2026,46-60,Male,West,General Medicine,Surgery,Routine,4.0,57420,79,0.26,Inpatient,14929.2
+1473,12/01/2026,60+,Male,East,Orthopedics,Medication,Routine,4.1,91293,77,0.36,Inpatient,32865.48
+833,12/04/2024,18-30,Male,North,General Medicine,Therapy,Emergency,4.6,50178,81,0.14,Inpatient,7024.92
+3572,12/10/2031,31-45,Male,North,General Medicine,Observation,Routine,1.3,61172,50,0.63,Inpatient,38538.36
+120,30/04/2022,31-45,Female,West,Cardiology,Therapy,Routine,3.2,32253,76,0.32,Inpatient,10320.96
+163,12/06/2022,46-60,Male,North,Pediatrics,Medication,Routine,2.5,24727,87,0.39,Inpatient,9643.53
+2421,17/08/2028,18-30,Female,South,Pediatrics,Therapy,Routine,7.4,15751,85,0.42,Inpatient,6615.42
+2253,02/03/2028,46-60,Female,North,Orthopedics,Observation,Emergency,4.1,66871,67,0.16,Inpatient,10699.36
+2598,10/02/2029,31-45,Female,South,Pediatrics,Medication,Routine,3.4,43645,76,0.16,Inpatient,6983.2
+2234,12/02/2028,60+,Male,South,Neurology,Observation,Emergency,7.0,57360,85,0.28,Inpatient,16060.8
+3091,18/06/2030,31-45,Male,East,Pediatrics,Therapy,Routine,2.4,30362,65,0.29,Inpatient,8804.98
+4411,28/01/2034,18-30,Female,South,Neurology,Surgery,Routine,3.8,44630,68,0.32,Inpatient,14281.6
+3072,30/05/2030,46-60,Male,South,Pediatrics,Medication,Routine,6.8,52985,78,0.45,Inpatient,23843.25
+3053,11/05/2030,31-45,Female,West,General Medicine,Medication,Emergency,0.0,63395,61,0.64,Outpatient,40572.8
+1991,14/06/2027,46-60,Female,West,Neurology,Therapy,Routine,4.0,100431,69,0.21,Inpatient,21090.51
+90,31/03/2022,31-45,Male,North,Pediatrics,Observation,Routine,4.0,52715,94,0.04,Inpatient,2108.6
+4864,26/04/2035,31-45,Female,East,Neurology,Therapy,Routine,4.8,85837,66,0.52,Inpatient,44635.24
+2433,29/08/2028,60+,Female,North,Orthopedics,Observation,Routine,5.3,47507,59,0.28,Inpatient,13301.96
+155,04/06/2022,60+,Female,North,Cardiology,Therapy,Emergency,6.2,36357,77,0.28,Inpatient,10179.96
+2011,04/07/2027,18-30,Male,East,Orthopedics,Therapy,Routine,5.5,44759,94,0.08,Inpatient,3580.72
+3960,03/11/2032,18-30,Male,South,Orthopedics,Surgery,Emergency,4.2,61041,97,0.31,Inpatient,18922.71
+1143,16/02/2025,46-60,Male,South,Neurology,Observation,Emergency,5.1,55649,76,0.32,Inpatient,17807.68
+2303,21/04/2028,31-45,Female,East,Orthopedics,Observation,Emergency,3.8,54689,94,0.1,Inpatient,5468.9
+1197,11/04/2025,60+,Male,South,Neurology,Surgery,Routine,3.7,24747,57,0.69,Inpatient,17075.43
+781,20/02/2024,46-60,Male,West,Cardiology,Observation,Routine,4.7,51211,68,0.54,Inpatient,27653.94
+543,27/06/2023,18-30,Female,North,Neurology,Observation,Routine,2.8,27318,76,0.38,Inpatient,10380.84
+361,27/12/2022,31-45,Female,East,Neurology,Therapy,Routine,6.7,47386,57,0.1,Inpatient,4738.6
+3664,12/01/2032,18-30,Male,North,Pediatrics,Observation,Routine,4.3,59230,100,0.29,Inpatient,17176.7
+4176,07/06/2033,60+,Female,West,Orthopedics,Surgery,Routine,2.7,45491,80,0.21,Inpatient,9553.11
+3528,29/08/2031,46-60,Female,West,General Medicine,Observation,Routine,2.4,53956,71,0.32,Inpatient,17265.92
+519,03/06/2023,60+,Male,West,Cardiology,Medication,Emergency,1.0,52202,89,0.07,Inpatient,3654.14
+3711,28/02/2032,18-30,Male,South,General Medicine,Surgery,Routine,3.5,16481,70,0.16,Inpatient,2636.96
+288,15/10/2022,31-45,Male,North,Neurology,Observation,Emergency,4.3,57868,83,0.29,Inpatient,16781.72
+3934,08/10/2032,18-30,Female,North,Cardiology,Therapy,Routine,2.5,44076,100,0.47,Inpatient,20715.72
+3064,22/05/2030,46-60,Male,South,General Medicine,Observation,Routine,1.0,25285,83,0.13,Inpatient,3287.05
+1019,15/10/2024,60+,Male,East,Pediatrics,Surgery,Emergency,4.9,55608,71,0.18,Inpatient,10009.44
+2634,18/03/2029,18-30,Male,East,Cardiology,Therapy,Routine,2.5,57288,80,0.19,Inpatient,10884.72
+4001,14/12/2032,31-45,Male,North,General Medicine,Therapy,Emergency,3.5,71153,88,0.36,Inpatient,25615.08
+3285,29/12/2030,31-45,Male,North,Pediatrics,Medication,Emergency,5.1,52327,81,0.45,Inpatient,23547.15
+1603,22/05/2026,18-30,Female,North,Neurology,Medication,Routine,3.0,41047,57,0.05,Inpatient,2052.35
+2177,17/12/2027,31-45,Female,North,Neurology,Surgery,Emergency,0.9,70920,90,0.29,Inpatient,20566.8
+193,12/07/2022,60+,Male,North,General Medicine,Surgery,Emergency,5.5,84113,52,0.77,Inpatient,64767.01
+2004,27/06/2027,18-30,Male,East,Orthopedics,Therapy,Routine,3.2,31689,63,0.42,Inpatient,13309.38
+4026,08/01/2033,46-60,Female,South,General Medicine,Surgery,Routine,1.1,52860,74,0.4,Inpatient,21144.0
+4337,15/11/2033,31-45,Female,West,Orthopedics,Observation,Emergency,1.8,37386,70,0.27,Inpatient,10094.22
+570,24/07/2023,31-45,Female,East,Cardiology,Surgery,Routine,7.4,40868,88,0.06,Inpatient,2452.08
+1938,22/04/2027,46-60,Male,East,Orthopedics,Observation,Emergency,4.7,53885,55,0.37,Inpatient,19937.45
+3709,26/02/2032,31-45,Male,West,Pediatrics,Observation,Routine,5.1,58535,54,0.16,Inpatient,9365.6
+1530,10/03/2026,31-45,Female,East,Cardiology,Surgery,Emergency,6.7,77302,75,0.23,Inpatient,17779.46
+4404,21/01/2034,31-45,Male,West,General Medicine,Therapy,Routine,5.2,63877,67,0.38,Inpatient,24273.26
+4032,14/01/2033,31-45,Female,West,Cardiology,Observation,Routine,4.2,79701,85,0.56,Inpatient,44632.56
+4087,10/03/2033,18-30,Female,West,Neurology,Observation,Emergency,3.8,58817,61,0.12,Inpatient,7058.04
+4692,05/11/2034,31-45,Male,North,General Medicine,Surgery,Routine,4.7,36260,62,0.32,Inpatient,11603.2
+4736,19/12/2034,18-30,Male,East,General Medicine,Medication,Emergency,0.5,39451,71,0.49,Inpatient,19330.99
+3738,26/03/2032,46-60,Male,South,Neurology,Observation,Routine,3.5,90271,67,0.16,Inpatient,14443.36
+1133,06/02/2025,18-30,Female,East,Cardiology,Surgery,Routine,5.4,70197,84,0.41,Inpatient,28780.77
+3758,15/04/2032,31-45,Female,North,Orthopedics,Medication,Routine,2.8,37878,69,0.16,Inpatient,6060.48
+753,23/01/2024,46-60,Female,South,Cardiology,Medication,Routine,4.7,30794,85,0.32,Inpatient,9854.08
+161,10/06/2022,31-45,Female,West,Orthopedics,Surgery,Emergency,4.2,39542,71,0.09,Inpatient,3558.78
+599,22/08/2023,18-30,Male,South,Cardiology,Observation,Emergency,3.0,70748,71,0.15,Inpatient,10612.2
+3885,20/08/2032,60+,Male,South,Cardiology,Surgery,Emergency,2.3,58792,69,0.27,Inpatient,15873.84
+2428,24/08/2028,60+,Female,East,General Medicine,Observation,Emergency,4.1,69119,100,0.21,Inpatient,14514.99
+2160,30/11/2027,46-60,Male,West,Pediatrics,Observation,Routine,4.3,54643,82,0.39,Inpatient,21310.77
+2542,16/12/2028,46-60,Female,East,Neurology,Medication,Emergency,2.4,68463,54,0.03,Inpatient,2053.89
+4272,11/09/2033,60+,Male,North,Cardiology,Surgery,Routine,1.9,59801,77,0.15,Inpatient,8970.15

@@ -25,12 +25,10 @@ La operación hospitalaria analizada procesa un volumen financiero total de **$2
 
 ## 📂 3. Estructura del Repositorio
 
-* **`Data/healthcare_sample_github.csv`** — Muestra estratificada (1,001 registros) del dataset procesado (`Healthcare_Cleaned_v2.csv`).
-* **`Notebooks/01_data_cleaning_healthcare.ipynb`** — Jupyter Notebook con el pipeline ETL completo.
-* **`Database/script.sql`** — Script completo de MySQL para la creación de la tabla y consultas de análisis.
-* **`Reports/Informe_SupplyChain_PedroVargas.pdf`** — Reporte ejecutivo listo para descargar
-* **`Outputs/Executive_dashboard.png`** — Captura general del tablero en Excel
-* **`Readme.md`** — Documentación principal del proyecto.
+* **`data/healthcare_sample_github.csv`** — Muestra estratificada (1,001 registros) del dataset procesado (`Healthcare_Cleaned_v2.csv`).
+* **`notebooks/01_data_cleaning_healthcare.ipynb`** — Jupyter Notebook con el pipeline ETL completo.
+* **`database/script.sql`** — Script completo de MySQL para la creación de la tabla y consultas de análisis.
+* **`README.md`** — Documentación principal del proyecto.
 
 ---
 
@@ -45,11 +43,22 @@ Al analizar el impacto financiero cruzado (*Financial Risk Impact*):
 * Se identificaron pacientes con **0 días de estancia**, clasificados automáticamente mediante ingeniería de características como *Ambulatorio / Alta el mismo día*, optimizando la lectura analítica frente a las hospitalizaciones prolongadas[cite: 13].
 
 ---
+## 📊 5. Vista Previa del Dashboard
+![Executive Dashboard](Outputs/Executive_dashboard.png)
+---
+## 💡 6. Propuestas Estratégicas para la Mitigación de Riesgos
 
-## 🚀 5. Cómo clonar y revisar el proyecto
+1. **Protocolos de Seguimiento Post-Alta en Orthopedics y Cardiology (Impacto Alto / Esfuerzo Medio):**
+   *Implementar un programa de teleseguimiento a los 7 y 14 días posteriores al alta en pacientes quirúrgicos para reducir significativamente la tasa de reingreso y el costo financiero asociado.
+2. **Optimización de Recursos en Urgencias vs. Rutina (Impacto Alto / Esfuerzo Alto):**
+   *Revisar la asignación de suministros en los tratamientos de emergencia dentro de las regiones West y North para controlar costos operativos sin afectar la puntuación de recuperación (recovery_score).
+3. **Automatización de Alertas de Riesgo en MySQL (Impacto Medio / Esfuerzo Bajo):**
+   *Programar reportes periódicos utilizando las consultas analíticas del script SQL (script.sql) para identificar de manera anticipada a los pacientes con un readmission_risk superior al 0.40.
+---
+## 🚀 7. Cómo clonar y revisar el proyecto
 
 ```bash
 git clone [https://github.com/pedro-vargas-data/healthcare-analytics-operations.git](https://github.com/pedro-vargas-data/healthcare-analytics-operations.git)
 cd healthcare-analytics-operations
-
+```
 Desarrollado por Pedro Vargas Salgado | www.linkedin.com/in/pedrovargas-data-mba
